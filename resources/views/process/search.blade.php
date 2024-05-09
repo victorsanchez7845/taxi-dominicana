@@ -89,7 +89,7 @@
                                 </div>
                             </div>
                             <div class="two">
-                                @if($item['id'] == 1)
+                                @if(in_array( $item['id'], [1,4] ))
                                     <p>Travel comfortably in a fully equipped, private service for up to {{ $item['passengers'] }} passengers. The service is private, with no waiting time or continuous stops.</p>
                                     <ul>
                                         <li>Private service</li>
