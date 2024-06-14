@@ -34,18 +34,18 @@ Route::middleware('locale')->group(function () {
     Route::middleware('ApiChecker')->group(function () {
         Route::get('/search-result', [ProcessController::class, 'search'])->name('step.one');
         Route::post('/search-result', [ProcessController::class, 'handler'])->name('step.one.handler');
-
         Route::get('/checkout', [ProcessController::class, 'checkout'])->name('step.two');
         Route::post('/checkout', [ProcessController::class, 'handlerCheckout'])->name('step.two.handler');
-        
         Route::post('/processing', [ProcessController::class, 'processingHandler'])->name('step.three.handler');
-
         Route::get('/my-reservation', [ProcessController::class, 'login'])->name('login');
         Route::post('/my-reservation', [ProcessController::class, 'loginHandler'])->name('reservation.login.handler');
         Route::get('/my-reservation-detail', [ProcessController::class, 'reservationDetail'])->name('reservation.detail');        
-
         Route::get('/thank-you', [ProcessController::class, 'success'])->name('thank-you');
         Route::get('/cancel', [ProcessController::class, 'error'])->name('cancel');
+
+        Route::get('/payment', [ProcessController::class, 'paymentPaypal'])->name('reservation.payment.paypal.en');
+        Route::post('/payment-create-order', [ProcessController::class, 'paymentPayPalOrder'])->name('reservation.payment.paypal.order.en');
+        Route::post('/payment-execute-order', [ProcessController::class, 'paymentPayPalCreate'])->name('reservation.payment.paypal.create.en');
 
     });
 

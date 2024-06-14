@@ -72,3 +72,16 @@ function deleteMessages() {
         }
     });
 }
+
+const paymentTypeRadios = document.querySelectorAll('input[name="payment_type"]');
+const paymentInfoDiv = document.getElementById('paymentInfo');
+
+paymentTypeRadios.forEach(radio => {
+    radio.addEventListener('click', function() {
+        if (this.value === 'credit_card') {
+            paymentInfoDiv.classList.remove('hidden');
+        } else {
+            paymentInfoDiv.classList.add('hidden');
+        }
+    });
+});
