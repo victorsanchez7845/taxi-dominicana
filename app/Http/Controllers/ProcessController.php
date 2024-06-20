@@ -182,7 +182,7 @@ class ProcessController extends Controller{
         Session::put( 'reservation', $data);
         
         $payment_link = '/gracias';
-        if( in_array( $request->payment_type, ['paypal'] ) ):
+        if( in_array( $request->payment_type, ['paypal','credit_card'] ) ):
             $payment_data = [
                 "type" => (( $request->payment_type == 'paypal' )? 'PAYPAL' : 'STRIPE'),
                 "id" => $data['config']['id'],
@@ -194,9 +194,9 @@ class ProcessController extends Controller{
             $payment_link = $payment_data['url'];
         endif;
 
-        if( in_array( $request->payment_type, ['credit_card'] ) ):
+        /*if( in_array( $request->payment_type, ['credit_card'] ) ):
             $payment_link = "/payment";
-        endif;
+        endif;*/
 
         return view('process.processing', [ 'payment' => $payment_link, 'seo' => $this->seo, 'data' => $data ]);
     }
