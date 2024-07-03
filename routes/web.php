@@ -5,7 +5,7 @@ use App\Http\Controllers\WebsiteController;
 use App\Http\Controllers\DestinationsController;
 use App\Http\Controllers\ProcessController;
 use App\Http\Controllers\RedirectController;
-
+use App\Http\Controllers\PaymentController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -42,8 +42,9 @@ Route::middleware('locale')->group(function () {
         Route::get('/my-reservation-detail', [ProcessController::class, 'reservationDetail'])->name('reservation.detail');        
         Route::get('/thank-you', [ProcessController::class, 'success'])->name('thank-you');
         Route::get('/cancel', [ProcessController::class, 'error'])->name('cancel');
+        Route::get('/payment', [PaymentController::class, 'payment'])->name('reservation.payment.es');
 
-        Route::get('/payment', [ProcessController::class, 'paymentPaypal'])->name('reservation.payment.paypal.en');
+        //Route::get('/payment', [ProcessController::class, 'paymentPaypal'])->name('reservation.payment.paypal.en');
         Route::post('/payment-create-order', [ProcessController::class, 'paymentPayPalOrder'])->name('reservation.payment.paypal.order.en');
         Route::post('/payment-execute-order', [ProcessController::class, 'paymentPayPalCreate'])->name('reservation.payment.paypal.create.en');
 
