@@ -1,5 +1,5 @@
 {
-    "/assets/js/base/index.min.js": "/assets/js/base/index.min.js?id=79a360e6a1a50e598bd2078123e986f4",
+    "/assets/js/base/index.min.js": "/assets/js/base/index.min.js?id=4d0c24bc3904e447aa444b02524d1381",
     "/assets/js/bookingbox/index.min.js": "/assets/js/bookingbox/index.min.js?id=653877a930b8e25d06ae9f57100963b5",
     "/assets/js/process/listing.min.js": "/assets/js/process/listing.min.js?id=c269199b14e490ad95f1bfb2b81d4e26",
     "/assets/js/quotations/index.min.js": "/assets/js/quotations/index.min.js?id=9394a490f24edc8fa40faa82aa332d12",
@@ -16,6 +16,7 @@
     "/assets/css/destinations/cancun.min.css": "/assets/css/destinations/cancun.min.css?id=8c6a80855acec2e922497c8fdd990d04",
     "/assets/css/process/reservation-detail.min.css": "/assets/css/process/reservation-detail.min.css?id=01c1b55856582bb584d590b8b405f8d2",
     "/assets/css/process/login.min.css": "/assets/css/process/login.min.css?id=5f5d05c3ade4c7a5931ee42c9dfcd123",
+    "/assets/css/process/card-payment-mifel.min.css": "/assets/css/process/card-payment-mifel.min.css?id=5a38860d15ce1a1727cb20df70c2f73c",
     "/assets/css/process/cancel.min.css": "/assets/css/process/cancel.min.css?id=3fa343dd218bd33f8d9e604fcfdf8919",
     "/assets/css/process/thank-you.min.css": "/assets/css/process/thank-you.min.css?id=33ac722b4123848e671091a29e786cfd",
     "/assets/css/process/card-payment.min.css": "/assets/css/process/card-payment.min.css?id=73ec5b6ed33473252624dfcda0d26c75",
