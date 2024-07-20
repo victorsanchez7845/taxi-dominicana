@@ -134,15 +134,13 @@
                 <label>
                     <input type="radio" name="payment_type" id="paypal" value="paypal" checked>
                     <img src="/assets/img/checkout/paypal.png" alt="PayPal" title="PayPal">
-                </label>
-                @if(false)
+                </label>                
                 <label>
                     <input type="radio" name="payment_type" id="card" value="credit_card">
                     <img src="/assets/img/checkout/visa.png" alt="Credit / Debit Card" title="Credit / Debit Card">
                     <img src="/assets/img/checkout/mastercard.png" alt="Credit / Debit Card" title="Credit / Debit Card">
                     <span>Credit / Debit Card</span>
-                </label>
-                @endif
+                </label>                
                 @if($data['places']['config']['flight_required'])
                 <label>
                     <input type="radio" name="payment_type" id="cash" value="cash">
