@@ -331,6 +331,17 @@ form.checkout-container{
                 display: none;
             }
         }
+        > div#cashInfo{
+            color: #856404;
+            background-color: #fff3cd;
+            border-color: #ffeeba;
+            border-radius: 10px;
+            box-shadow: 0 0 6px rgba(0,0,0,.16);
+            padding: 15px;
+            &.hidden{
+                display: none;
+            }
+        }
     }
 
     > div.bottom{
