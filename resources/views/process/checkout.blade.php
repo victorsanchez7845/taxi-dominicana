@@ -145,12 +145,20 @@
                 <label>
                     <input type="radio" name="payment_type" id="cash" value="cash">
                     <span>Pay in cash</span>
+                    <img src="/assets/img/checkout/cash.png" alt="Cash" title="Cash" width="50px">
                 </label>
                 @endif
             </div>
             <div id="paymentInfo" class="hidden">
                 <p><strong>Important!</strong> You have to present the debit or credit card with which you made the payment when starting your transfer.</p>
                 <p>If you choose to pay by credit/debit card, your payment will be converted into local currency (MXN) at a preferential exchange rate for you ❤️.</p>
+            </div>
+            <div id="cashInfo" class="hidden">
+                @if(app()->getLocale() == "en")
+                    <p>Tax service ${{ $data['items']['cash_fee'] }} {{ $data['items']['currency'] }}, you can save this fee prepaying online.</p>
+                @else
+                    <p>Tarifa de servicio por ${{ $data['items']['cash_fee'] }} {{ $data['items']['currency'] }}, usted puede ahorrar esta cuota pagando en línea.</p>
+                @endif
             </div>
         </div>
 

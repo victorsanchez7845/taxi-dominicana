@@ -75,13 +75,17 @@ function deleteMessages() {
 
 const paymentTypeRadios = document.querySelectorAll('input[name="payment_type"]');
 const paymentInfoDiv = document.getElementById('paymentInfo');
+const cashInfoDiv = document.getElementById('cashInfo');
 
 paymentTypeRadios.forEach(radio => {
     radio.addEventListener('click', function() {
+        paymentInfoDiv.classList.add('hidden');
+        cashInfoDiv.classList.add('hidden');
+
         if (this.value === 'credit_card') {
             paymentInfoDiv.classList.remove('hidden');
-        } else {
-            paymentInfoDiv.classList.add('hidden');
+        }if (this.value === 'cash') {
+            cashInfoDiv.classList.remove('hidden');
         }
     });
 });
