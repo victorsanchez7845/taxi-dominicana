@@ -7,7 +7,7 @@
 @endpush
 @push("push-bottom")
     <script defer src="{{ mix('/assets/js/bookingbox/index.min.js') }}"></script>
-    <x-analytics/>
+    <x-analytics/> 
 @endpush
 
 @section('content')    
