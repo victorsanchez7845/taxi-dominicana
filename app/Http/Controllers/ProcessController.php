@@ -194,9 +194,9 @@ class ProcessController extends Controller{
             $payment_link = $payment_data['url'];
         endif;
 
-        if( in_array( $request->payment_type, ['credit_card'] ) ):
-            //$payment_link = "/payment";
-        endif;
+        /*if( in_array( $request->payment_type, ['credit_card'] ) ):
+            $payment_link = "/payment";
+        endif;*/
 
         return view('process.processing', [ 'payment' => $payment_link, 'seo' => $this->seo, 'data' => $data ]);
     }
