@@ -12,11 +12,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="application-name" content="Website">
         <meta name="author" content="Caribbean Taxi">
-        @if(config('app.debug'))
-            <meta name="robots" content="noindex,nofollow">
-        @else
-            <meta name="robots" content="index,follow">
-        @endif
+        <meta name="robots" content="index,follow">
         <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
         <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
         <meta name="csrf-token" content="{{ csrf_token() }}">     
