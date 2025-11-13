@@ -1,45 +1,37 @@
-@extends('layout.master')
-
-@push("push-top")
-    <link href="{{ mix('/assets/css/process/processing.min.css') }}" rel="preload" as="style" >
-    <link href="{{ mix('/assets/css/process/processing.min.css') }}" rel="stylesheet">    
-@endpush
-@push("push-bottom")
-    <x-hotjar/>
-    <x-analytics/>
-@endpush
-
-@section('content')
-    @include('layout.header.checkout')
-    
-    <div class="parallax-container">
-        <div class="container">
-            <h1>Thank you for booking with Caribbean Taxi!</h1>
-        </div>
-    </div>
-
-    <div class="container redirect-container">
-        <h2>You will be redirected in <span id="timer">3</span> ...</h2>
-    </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Caribbean Taxi</title>
 
     <script>
         (function () {
-            var timerElement = document.getElementById("timer");
-            var contador = 3;
-
-            function updateCounter() {
-                timerElement.textContent = contador;
-                contador--;
-
-                if (contador < 0) {
-                    clearInterval(intervalo);
-                   window.location.href = `{!! $payment !!}`;                    
-                }
-            }
-
-            updateCounter();
-            var intervalo = setInterval(updateCounter, 1000);
+            let seconds = 1;
+            setTimeout(() => window.location.href = `{!! $payment !!}`, seconds * 1000);
         })();
     </script>
-    
-@endsection
+
+    <style>
+        body, html {
+            width: 100%;
+            height: 100%;
+        }
+        h2 {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+        }
+        div {
+            display: grid;
+            place-content: center;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h2>Processing information...</h2>
+    </div>
+</body>
+</html>

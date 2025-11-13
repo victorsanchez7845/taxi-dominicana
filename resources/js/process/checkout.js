@@ -50,13 +50,26 @@ function handler(){
         form.submit();
     } else {
         
-        Object.keys(validation.errors.errors).forEach(function(key) {  
+        Object.keys(validation.errors.errors).forEach(function(key, index) {  
             let span = document.createElement('span');
                 span.classList.add("error");
                 span.textContent = validation.errors.errors[key];
                 if(formData[key]){
                     formData[key].parentNode.insertBefore(span, formData[key].nextSibling);
                 }
+
+            if (index === 0) {
+                const element = document.querySelector(`[name="${key}"]`);
+                if (element) {
+                    const rect = element.getBoundingClientRect();
+                    const offset = window.scrollY + rect.top - 40;
+    
+                    window.scrollTo({
+                        top: offset,
+                        behavior: 'smooth',
+                    });
+                }
+            }
         });        
         return false;
     }    
