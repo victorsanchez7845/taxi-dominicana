@@ -13,6 +13,24 @@
         })();
     </script>
 
+
+    <!-- Event snippet for Compra conversion page -->
+
+
+      <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-17756767833/60EaCMSmkMYbENmMi5NC',
+            'value': `{!! $data['sales']['total'] !!}`,
+            'currency': `{!! $data['config']['currency'] !!}`,
+            'transaction_id': `{!! $data['config']['id'] !!}`,
+        });
+        (function () {
+            let seconds = 1;
+            setTimeout(() => window.location.href = `{!! $payment !!}`, seconds * 1000);
+        })();
+    </script>
+    
+
     <style>
         body, html {
             width: 100%;
