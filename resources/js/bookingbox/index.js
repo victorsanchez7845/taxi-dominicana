@@ -326,10 +326,12 @@
                     btnCurrency.click();
                 }
 
-                setup.setServiceType(data.type);
-                var btnType = document.querySelector(`.aff-toggle-type[data-type="${data.type}"]`);
-                if (btnType) {
-                    btnType.click();
+                if( ['/search-result'].includes(window.location.pathname) ) {
+                    setup.setServiceType(data.type);
+                    var btnType = document.querySelector(`.aff-toggle-type[data-type="${data.type}"]`);
+                    if (btnType) {
+                        btnType.click();
+                    }
                 }
                 
                 from_autocomplete.value = data.from.name;
