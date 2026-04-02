@@ -1,6 +1,3 @@
-@php 
-    use App\Traits\functionsTrait;
-@endphp
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
