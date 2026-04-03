@@ -30,7 +30,6 @@
                     </a>
                 </li>
                 <li><a href="/my-reservation" class="my-booking-btn" title="My Reservation">My reservation</a></li>
-                <li><a href="https://bookings.taxidominicana.com" class="my-booking-btn" title="Panel" target="_blank">Panel</a></li>
             </ul>
         </div>
 
@@ -68,7 +67,6 @@
                                     Whatsapp
                                 </a>
                                 <a href="/my-reservation" class="my-booking" title="My reservation">My reservation</a>
-                                <a href="https://bookings.taxidominicana.com" class="my-booking" title="Panel" target="_blank">Panel</a>
                             </div>
                         </div>
                     </div>
