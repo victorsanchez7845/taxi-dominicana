@@ -73,11 +73,11 @@
                 "name": "Taxi Riviera Maya",
                 "priceRange": "$$",
                 "image": [
-                    "https://caribbean-taxi.com/assets/img/website/logo.webp"
+                    "https://taxidominicana.com/assets/img/website/logo.webp"
                 ],
                 "hasMap": "https://www.google.com/maps/place/Caribbean+Taxi/@21.0383514,-86.8689682,15z/data=!4m6!3m5!1s0x8f4e81e477a28935:0x2613d52928408f18!8m2!3d21.0383514!4d-86.8689682!16s%2Fg%2F11l287r9yd?hl=es&entry=tts",       
                 "telephone": "+52 (998) 387.0238",
-                "url": "https://caribbean-taxi.com",
+                "url": "https://taxidominicana.com",
                 "sameAs": [
                     "https://www.facebook.com/taxirivieramayaMX",
                     "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Riviera_Maya-Cancun_Yucatan_Peninsula.html"
@@ -100,7 +100,7 @@
                     "latitude": 21.03858878502456,
                     "longitude": 86.86897265996767
                 },                
-                "Logo": "https://caribbean-taxi.com/assets/img/website/logo.webp"
+                "Logo": "https://taxidominicana.com/assets/img/website/logo.webp"
             }
         </script>
         

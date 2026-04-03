@@ -10,9 +10,9 @@
           "@type": "Product",
           "name": "Taxi Privado en Costa Mujeres",
           "image": [
-            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
+            "https://taxidominicana.com/assets/img/schema/1x1.jpg",
+            "https://taxidominicana.com/assets/img/schema/4x3.jpg",
+            "https://taxidominicana.com/assets/img/schema/16x9.jpg"
            ],
           "description": "Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.",
           "sku": "019005",
@@ -40,7 +40,7 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/traslado-cancun-a-puerto-morelos",
+            "url": "https://taxidominicana.com/traslado-cancun-a-puerto-morelos",
             "priceCurrency": "MXN",
             "price": 954,
             "priceValidUntil": "2024-12-31",
@@ -54,9 +54,9 @@
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "image": [
-                "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
-                "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
-                "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
+                "https://taxidominicana.com/assets/img/schema/1x1.jpg",
+                "https://taxidominicana.com/assets/img/schema/4x3.jpg",
+                "https://taxidominicana.com/assets/img/schema/16x9.jpg"
             ],
             "name": "Taxi Riviera Maya",
             "hasMap": "https://www.google.com/maps/place/Taxi+Riviera+Maya/@21.0723366,-86.8489683,17z/data=!4m6!3m5!1s0x8f4c2be10a05f649:0xc59c79538ab20351!8m2!3d21.0723316!4d-86.8463934!16s%2Fg%2F11sbd81d37?entry=tts&shorturl=1",
@@ -89,9 +89,9 @@
               "latitude": 21.072476745380349,
               "longitude": -86.846425590797892
             },
-            "url": "https://caribbean-taxi.com/traslado-cancun-a-puerto-morelos",
+            "url": "https://taxidominicana.com/traslado-cancun-a-puerto-morelos",
             "telephone": "+529982942389",
-            "email": "bookings@caribbean-taxi.com",            
+            "email": "bookings@taxidominicana.com",
             "priceRange": "990 MXN - 1980 MXN",
             "openingHoursSpecification": [
                 {

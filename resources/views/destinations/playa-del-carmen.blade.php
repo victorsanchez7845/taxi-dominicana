@@ -9,9 +9,9 @@
           "@type": "Product",
           "name": "Traslado Privado a Playa del Carmen",
           "image": [
-            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
+            "https://taxidominicana.com/assets/img/schema/1x1.jpg",
+            "https://taxidominicana.com/assets/img/schema/4x3.jpg",
+            "https://taxidominicana.com/assets/img/schema/16x9.jpg"
            ],
           "description": "Transfer service to and from Playa del Carmen, the service is provided in a VW Transporter for up to 8 passengers. Available for all areas of Playa del Carmen.",
           "sku": "019003",
@@ -39,7 +39,7 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/transportation-cancun-airport-to-playa-del-carmen",
+            "url": "https://taxidominicana.com/transportation-cancun-airport-to-playa-del-carmen",
             "priceCurrency": "USD",
             "price": 69,
             "priceValidUntil": "2024-12-31",
