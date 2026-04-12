@@ -10,9 +10,9 @@
           "@type": "Product",
           "name": "Cancun Airport Taxi",
           "image": [
-            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
+            "{{ url('/assets/img/schema/') }}1x1.jpg",
+            "{{ url('/assets/img/schema/') }}4x3.jpg",
+            "{{ url('/assets/img/schema/') }}16x9.jpg"
            ],
           "description": "Cab service to and from Cancun Airport, the service is provided in a VW Transporter for up to 8 passengers. Available for the entire Riviera Maya.",
           "sku": "019001",
@@ -40,7 +40,7 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/cancun-airport-transportation",
+            "url": "{{ url('/') }}/cancun-airport-transportation",
             "priceCurrency": "USD",
             "price": 29,
             "priceValidUntil": "2024-12-31",

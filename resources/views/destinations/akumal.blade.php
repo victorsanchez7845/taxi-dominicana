@@ -10,9 +10,9 @@
           "@type": "Product",
           "name": "Akumal Shuttle",
           "image": [
-            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
+            "{{ url('/assets/img/schema/') }}1x1.jpg",
+            "{{ url('/assets/img/schema/') }}4x3.jpg",
+            "{{ url('/assets/img/schema/') }}16x9.jpg"
            ],
           "description": "This transportation is available for all our destinations, the service is provided in a VW Transporter for up to 8 passengers (children/infants are considered as passengers).",
           "sku": "019004",
@@ -40,7 +40,7 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/cancun-to-akumal-shuttle",
+            "url": "{{ url('/') }}/cancun-to-akumal-shuttle",
             "priceCurrency": "USD",
             "price": 106,
             "priceValidUntil": "2024-12-31",

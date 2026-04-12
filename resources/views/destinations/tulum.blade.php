@@ -10,9 +10,9 @@
           "@type": "Product",
           "name": "Tulum Shuttle",
           "image": [
-            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
-            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
+            "{{ url('/assets/img/schema/') }}1x1.jpg",
+            "{{ url('/assets/img/schema/') }}4x3.jpg",
+            "{{ url('/assets/img/schema/') }}16x9.jpg"
            ],
           "description": "Transfer service to and from Tulum, the service is provided in a VW Transporter for up to 8 passengers. Available for all areas of Tulum.",
           "sku": "019002",
@@ -40,7 +40,7 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/cancun-to-tulum-shuttle",
+            "url": "{{ url('/') }}/cancun-to-tulum-shuttle",
             "priceCurrency": "USD",
             "price": 129,
             "priceValidUntil": "2024-12-31",

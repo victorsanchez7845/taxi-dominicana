@@ -45,12 +45,12 @@ class ContactController extends Controller
                 "Messages" => array(
                     array(
                         "From" => array(
-                            "Email" => "bookings@caribbean-taxi.com",
+                            "Email" => "bookings@taxidominicana.com",
                             "Name" => "Bookings"
                         ),
                         "To" => array(
                             array(
-                                "Email" => "bookings@caribbean-taxi.com",
+                                "Email" => "bookings@taxidominicana.com",
                                 "Name" => "Bookings"
                             )
                         ),
@@ -120,12 +120,12 @@ class ContactController extends Controller
                 "Messages" => array(
                     array(
                         "From" => array(
-                            "Email" => "sales@caribbean-taxi.com",
+                            "Email" => "sales@taxidominicana.com",
                             "Name" => "Sales"
                         ),
                         "To" => array(
                             array(
-                                "Email" => "sales@caribbean-taxi.com",
+                                "Email" => "sales@taxidominicana.com",
                                 "Name" => "Sales"
                             )
                         ),
