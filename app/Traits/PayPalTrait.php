@@ -71,13 +71,8 @@ trait PayPalTrait
 	        $url =  $URL = $this->URL[ self::$env ] . '/v2/checkout/orders';
 
             //URL's
-	        $return_url = 'https://caribbean-taxi.com/thank-you';
-            $cancel_url = 'https://caribbean-taxi.com/cancel';
-            
-            if(app()->getLocale() == "en"):
-	            $return_url = 'https://caribbean-taxi.com/thank-you';
-                $cancel_url = 'https://caribbean-taxi.com/cancel';
-            endif;
+	        $return_url = url('/thank-you');
+            $cancel_url = url('/cancel');
 
 	        //Information
 	        $info = "Transportation service #(".$rez['config']['id'].")";

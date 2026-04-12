@@ -181,7 +181,7 @@ class ProcessController extends Controller{
 
         Session::put( 'reservation', $data);
         
-        $payment_link = '/gracias';
+        $payment_link = '/thank-you';
         if( in_array( $request->payment_type, ['paypal','credit_card'] ) ):
             $payment_data = [
                 "type" => (( $request->payment_type == 'paypal' )? 'PAYPAL' : 'STRIPE'),

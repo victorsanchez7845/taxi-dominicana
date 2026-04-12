@@ -96,7 +96,7 @@
                     } else if (!orderData.purchase_units) {
                         throw new Error(JSON.stringify(orderData));
                     } else {
-                        actions.redirect(`https://caribbean-taxi.com/thank-you`);
+                        actions.redirect(`{{ url('/thank-you') }}`);
                             
                         // (3) Successful transaction -> Show confirmation or thank you message
                         // Or go to another URL:  actions.redirect('thank_you.html');
