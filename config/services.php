@@ -33,7 +33,7 @@ return [
 
     'email' => env('PAGE_EMAIL', ''),
     'phone' => [
-        'MX' => env('PAGE_PHONE_MX', '+52 (000) 000 0000'),
+        'DO' => env('PAGE_PHONE_DO', '+1 (809) 000 0000'),
         'US' => env('PAGE_PHONE_US', '+1 (323) 000 0000'),
     ],
     'mailjet' => [

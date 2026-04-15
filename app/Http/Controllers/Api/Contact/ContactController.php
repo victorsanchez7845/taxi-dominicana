@@ -45,16 +45,16 @@ class ContactController extends Controller
                 "Messages" => array(
                     array(
                         "From" => array(
-                            "Email" => "bookings@caribbean-taxi.com",
+                            "Email" => "bookings@taxidominicana.com",
                             "Name" => "Bookings"
                         ),
                         "To" => array(
                             array(
-                                "Email" => "bookings@caribbean-taxi.com",
+                                "Email" => "bookings@taxidominicana.com",
                                 "Name" => "Bookings"
                             )
                         ),
-                        "Subject" => "E-mail de contacto | Caribbean Taxi",
+                        "Subject" => "E-mail de contacto | Taxi Dominicana",
                         "TextPart" => $message
                     )
                 )
@@ -120,16 +120,16 @@ class ContactController extends Controller
                 "Messages" => array(
                     array(
                         "From" => array(
-                            "Email" => "sales@caribbean-taxi.com",
+                            "Email" => "sales@taxidominicana.com",
                             "Name" => "Sales"
                         ),
                         "To" => array(
                             array(
-                                "Email" => "sales@caribbean-taxi.com",
+                                "Email" => "sales@taxidominicana.com",
                                 "Name" => "Sales"
                             )
                         ),
-                        "Subject" => "E-mail de cotización | Taxi Riviera Maya",
+                        "Subject" => "E-mail de cotización | Taxi Dominican Republic",
                         "TextPart" => $message
                     )
                 )

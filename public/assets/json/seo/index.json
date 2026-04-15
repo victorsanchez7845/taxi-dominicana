@@ -12,9 +12,32 @@
             "en": {
                 "path": "/",
                 "metas": {
-                    "title": "Caribbean Taxi | The Official Airport Transportation Company to all Riviera Maya",
-                    "description": "Explore the Riviera Maya in complete comfort with Caribbean Taxi, your reliable airport transportation partner. We offer safe and punctual transfers, ensuring a worry-free journey.",
-                    "keywords": "Caribbean taxi, airport shuttle, airport transportation, airport transfers, airport taxi, airport cab"
+                    "title": "Taxi Dominicana | The Official Airport Transportation Company to all Dominican Republic",
+                    "description": "Explore the Dominican Republic in complete comfort with Taxi Dominicana, your reliable airport transportation partner. We offer safe and punctual transfers, ensuring a worry-free journey.",
+                    "keywords": "Taxi Dominicana, airport shuttle, airport transportation, airport transfers, airport taxi, airport cab"
+                }
+            }
+        },
+        "alternates": {
+            "es": "/"
+        }
+    },
+    "destinations": {
+        "languages": {
+            "es": {
+                "path": "/es",
+                "metas": {
+                    "title": "",
+                    "description": "",
+                    "keywords": ""
+                }
+            },
+            "en": {
+                "path": "/",
+                "metas": {
+                    "title": "Taxi Dominicana | The Official Airport Transportation Company to all Dominican Republic",
+                    "description": "Explore the Dominican Republic in complete comfort with Taxi Dominicana, your reliable airport transportation partner. We offer safe and punctual transfers, ensuring a worry-free journey.",
+                    "keywords": "Taxi Dominicana, airport shuttle, airport transportation, airport transfers, airport taxi, airport cab"
                 }
             }
         },
@@ -35,8 +58,8 @@
             "en": {
                 "path": "/contact",
                 "metas": {
-                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
-                    "description": "Reserva los mejores traslados del Aeropuerto Internacional de Cancún a la Riviera Maya al mejor precio. ¡Reservar ahora!",
+                    "title": "Safe Transportation from Punta Cana Airport to all Dominican Republic",
+                    "description": "Book the best transfers from Punta Cana International Airport to Dominican Republic at the best price. Book now!",
                     "keywords": ""
                 }
             }
@@ -58,8 +81,8 @@
             "en": {
                 "path": "/quote",
                 "metas": {
-                    "title": "Get Personalized Quotes for Reliable Airport Transportation - Caribbean Taxi",
-                    "description": "Request a quote from Caribbean Taxi for personalized and budget-friendly airport transportation services. Our team is ready to provide you with a tailored solution that ensures secure, comfortable, and punctual transfers to your destination. ",
+                    "title": "Get Personalized Quotes for Reliable Airport Transportation - Taxi Dominicana",
+                    "description": "Request a quote from Taxi Dominicana for personalized and budget-friendly airport transportation services. Our team is ready to provide you with a tailored solution that ensures secure, comfortable, and punctual transfers to your destination. ",
                     "keywords": ""
                 }
             }
@@ -81,8 +104,8 @@
             "en": {
                 "path": "/privacy-policy",
                 "metas": {
-                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
-                    "description": "Reserva los mejores traslados del Aeropuerto Internacional de Cancún a la Riviera Maya al mejor precio. ¡Reservar ahora!",
+                    "title": "Safe Transportation from Punta Cana Airport to all Dominican Republic",
+                    "description": "Book the best transfers from Punta Cana International Airport to Dominican Republic at the best price. Book now!",
                     "keywords": ""
                 }
             }
@@ -104,8 +127,8 @@
             "en": {
                 "path": "/terms-and-conditions",
                 "metas": {
-                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
-                    "description": "Reserva los mejores traslados del Aeropuerto Internacional de Cancún a la Riviera Maya al mejor precio. ¡Reservar ahora!",
+                    "title": "Safe Transportation from Punta Cana Airport to all Dominican Republic",
+                    "description": "Book the best transfers from Punta Cana International Airport to Dominican Republic at the best price. Book now!",
                     "keywords": ""
                 }
             }
@@ -127,8 +150,8 @@
             "en": {
                 "path": "/services",
                 "metas": {
-                    "title": "Caribbean Taxi | Reliable Airport Transfers and Certified Transportation Services in the Riviera",
-                    "description": "Discover seamless airport transfers and certified services with Caribbean Taxi. From Cancun Airport to the beautiful Riviera Maya, enjoy punctual, regulated rates, and insured journeys.",
+                    "title": "Taxi Dominicana | Reliable Airport Transfers and Certified Transportation Services in the Dominican Republic",
+                    "description": "Discover seamless airport transfers and certified services with Taxi Dominicana. From Punta Cana Airport to the beautiful Dominican Republic, enjoy punctual, regulated rates, and insured journeys.",
                     "keywords": ""
                 }
             }
@@ -150,7 +173,7 @@
             "en": {
                 "path": "/search-result",
                 "metas": {
-                    "title": "Results | Caribbean Taxi",
+                    "title": "Results | Taxi Dominicana",
                     "description": "",
                     "keywords": ""
                 }
@@ -174,7 +197,7 @@
                 "path": "/checkout",
                 "metas": {
                     "title": "",
-                    "description": "Checkout | Caribbean Taxi",
+                    "description": "Checkout | Taxi Dominicana",
                     "keywords": ""
                 }
             }
@@ -196,7 +219,7 @@
             "en": {
                 "path": "/processing",
                 "metas": {
-                    "title": "Processing | Caribbean Taxi",
+                    "title": "Processing | Taxi Dominicana",
                     "description": "",
                     "keywords": ""
                 }
@@ -219,7 +242,7 @@
             "en": {
                 "path": "/thank-you",
                 "metas": {
-                    "title": "Thank You | Caribbean Taxi",
+                    "title": "Thank You | Taxi Dominicana",
                     "description": "",
                     "keywords": ""
                 }
@@ -242,7 +265,7 @@
             "en": {
                 "path": "/cancel",
                 "metas": {
-                    "title": "Sorry | Taxi Riviera Maya",
+                    "title": "Sorry | Taxi Dominicana",
                     "description": "",
                     "keywords": ""
                 }
@@ -265,7 +288,7 @@
             "en": {
                 "path": "/my-reservation",
                 "metas": {
-                    "title": "Booking Information | Caribbean Taxi ",
+                    "title": "Booking Information | Taxi Dominicana ",
                     "description": "",
                     "keywords": ""
                 }
@@ -288,7 +311,7 @@
             "en": {
                 "path": "/my-reservation-detail",
                 "metas": {
-                    "title": "My reservation detail | Caribbean Taxi",
+                    "title": "My reservation detail | Taxi Dominicana",
                     "description": "",
                     "keywords": ""
                 }
@@ -298,7 +321,7 @@
             "es": "/"            
         }
     },
-    "destination-cancun": {
+    "destination-punta-cana": {
         "languages": {
             "es": {
                 "path": "/",
@@ -309,11 +332,11 @@
                 }
             },
             "en": {
-                "path": "/cancun-airport-transportation",
+                "path": "/punta-cana-airport-transfers",
                 "metas": {
-                    "title": "Cancun Airport Transportation | Caribbean Taxi The Official Cancun Airport Taxi company",
-                    "description": "Cancun Airport Transportation: Discover the Riviera Maya with Ease, Trusted Transfers by Caribbean Taxi for a Stress-Free Journey!",
-                    "keywords": "cancun airport transportation, cancun airport transfers, cancun airport shuttle, cancun transfers, cancun airport taxi, cancun taxi, cancun transportation, cancun shuttle"
+                    "title": "Punta Cana Airport Transfers | Taxi Dominicana The Official Punta Cana Airport Taxi company",
+                    "description": "Punta Cana Airport Transfers: Discover Dominican Republic with Ease, Trusted Transfers by Taxi Dominicana for a Stress-Free Journey!",
+                    "keywords": "punta cana airport transfers, punta cana airport transportation, punta cana airport shuttle, punta cana transfers, punta cana airport taxi, punta cana taxi, punta cana transportation, punta cana shuttle"
                 }
             }
         },
@@ -321,7 +344,7 @@
             "es": "/"
         }
     },
-    "destination-tulum": {
+    "destination-bavaro": {
         "languages": {
             "es": {
                 "path": "/",
@@ -332,11 +355,11 @@
                 }
             },
             "en": {
-                "path": "/cancun-to-tulum-shuttle",
+                "path": "/punta-cana-to-bavaro-transfers",
                 "metas": {
-                    "title": "Cancun to Tulum Shuttle at the best price | Shuttle from Cancun to Tulum Safe and Reliable in Caribbean Taxi ",
-                    "description": "Cancun to Tulum Shuttle:  Transportation with Ease, Trusted Tulum Taxi by Caribbean Taxi for a Stress-Free Shuttle from Cancun to Tulum!",
-                    "keywords": "shuttle from cancun to tulum, cancun to tulum shuttle, transportation from cancun airport to tulum, transfers from cancun to tulum, how to get from cancun to tulum, cancun to tulum transportation, shuttle in tulum"
+                    "title": "Punta Cana to Bavaro Shuttle at the best price | Shuttle from Punta Cana to Bavaro Safe and Reliable in Taxi Dominicana ",
+                    "description": "Punta Cana to Bavaro Shuttle: Transportation with Ease, Trusted Bavaro Taxi by Taxi Dominicana for a Stress-Free Shuttle from Punta Cana to Bavaro!",
+                    "keywords": "shuttle from punta cana to bavaro, punta cana to bavaro shuttle, transportation from punta cana airport to bavaro, transfers from punta cana to bavaro, how to get from punta cana to bavaro, punta cana to bavaro transportation, shuttle in bavaro"
                 }
             }
         },
@@ -344,7 +367,7 @@
             "es": "/"            
         }
     },
-    "destination-pdc": {
+    "destination-la-romana": {
         "languages": {
             "es": {
                 "path": "/",
@@ -355,11 +378,11 @@
                 }
             },
             "en": {
-                "path": "/transportation-cancun-airport-to-playa-del-carmen",
+                "path": "/punta-cana-to-la-romana-transfers",
                 "metas": {
-                    "title": "Transportation from Cancun Airport to Playa del Carmen | Caribbean Taxi ",
-                    "description": "Transportation from Cancun Airport to Playa del Carmen:  Transportation with Ease, Trusted Playa del Carmen Taxi by Caribbean Taxi for a Stress-Free Journey!",
-                    "keywords": "transportation from cancun to playa del carmen, transfers from cancun international airport to playa del carmen, transportation in playa del carmen, shuttle playa del carmen, transportation in playa del carmen, how to get to playa del Carmen, how to get to playa del carmen from cancun, cab from cancun to playa del carmen, playa del carmen taxi, private transportation in playa del carmen, what to do in playa del carmen"
+                    "title": "Transportation from Punta Cana Airport to La Romana | Taxi Dominicana ",
+                    "description": "Transportation from Punta Cana Airport to La Romana: Transportation with Ease, Trusted La Romana Taxi by Taxi Dominicana for a Stress-Free Journey!",
+                    "keywords": "transportation from punta cana to la romana, transfers from punta cana international airport to la romana, transportation in la romana, shuttle la romana, transportation in la romana, how to get to la romana, how to get to la romana from punta cana, cab from punta cana to la romana, la romana taxi, private transportation in la romana, what to do in la romana"
                 }
             }
         },
@@ -367,7 +390,7 @@
             "es": "/"            
         }
     },
-    "destination-akumal": {
+    "destination-cap-cana": {
         "languages": {
             "es": {
                 "path": "/",
@@ -378,11 +401,11 @@
                 }
             },
             "en": {
-                "path": "/cancun-to-akumal-shuttle",
+                "path": "/punta-cana-to-cap-cana-transfers",
                 "metas": {
-                    "title": "Cancun to Akumal Shuttle at the best price | Safe and Reliable Shuttle from Cancun to Akumal with Caribbean Taxi ",
-                    "description": "Cancun to Akumal Shuttle at the lower prices in Riviera Maya. Caribbean Taxi ensures a stress-free transfer, combining comfort and punctuality in your transportation to Akumal.",
-                    "keywords": "Transportation from cancun to akumal, transfers from cancun international airport to akumal, transportation in akumal, shuttle akumal, transportation in akumal, how to get to akumal, how to go to akumal from cancun, taxi from cancun to akumal, akumal cab, private transportation in Akumal"
+                    "title": "Punta Cana to Cap Cana Shuttle at the best price | Safe and Reliable Shuttle from Punta Cana to Cap Cana with Taxi Dominicana ",
+                    "description": "Punta Cana to Cap Cana Shuttle at the lower prices in Dominican Republic. Taxi Dominicana ensures a stress-free transfer, combining comfort and punctuality in your transportation to Cap Cana.",
+                    "keywords": "Transportation from punta cana to cap cana, transfers from punta cana international airport to cap cana, transportation in cap cana, shuttle cap cana, transportation in cap cana, how to get to cap cana, how to go to cap cana from punta cana, taxi from punta cana to cap cana, cap cana cab, private transportation in Cap Cana"
                 }
             }
         },

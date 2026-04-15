@@ -3,14 +3,14 @@
         <div>
             <picture>
                 <source srcset="/assets/img/logo.png" type="image/webp">
-                <img src="/assets/img/logo.png" alt="Caribbean Taxi" title="Caribbean Taxi" loading="lazy" width="222" height="82">
+                <img src="/assets/img/logo.png" alt="Taxi Dominicana" title="Taxi Dominicana" loading="lazy" width="222" height="82">
             </picture>
-            <p>More than a decade of experience, we offer the safest, fastest and most reliable transfer in Cancun.</p>
+            <p>More than a decade of experience, we offer the safest, fastest and most reliable transfer in Punta Cana.</p>
             @if(false)
             <div class="social">
-                <a href="https://www.facebook.com/taxirivieramayaMX" title="Facebook" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-facebook"></use></svg></a>
-                <a href="https://twitter.com/RivieraMayaTaxi" title="Twitter" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-twitter"></use></svg></a>
-                <a href="https://www.instagram.com/taxirivieramaya/" title="Instagram" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-instagram"></use></svg></a>
+                <a href="https://www.facebook.com/taxidominicana" title="Facebook" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-facebook"></use></svg></a>
+                <a href="https://twitter.com/taxidominicana" title="Twitter" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-twitter"></use></svg></a>
+                <a href="https://www.instagram.com/taxidominicana/" title="Instagram" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-instagram"></use></svg></a>
             </div>
             @endif
         </div>
@@ -22,10 +22,10 @@
         </div>
         <div>
             <h4>Destinations</h4>
-            <a href="/cancun-airport-transportation" title="Cancun Airport Transportation">Cancun Airport Transportation</a>
-            <a href="/cancun-to-tulum-shuttle" title="Cancun to Tulum Shuttle">Cancun to Tulum Shuttle</a>
-            <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation from Cancun to Playa del Carmen">Transportation from Cancun to Playa del Carmen</a>
-            <a href="/cancun-to-akumal-shuttle" title="Cancun to Akumal Shuttle">Cancun to Akumal Shuttle</a>
+            <a href="/punta-cana-airport-transfers" title="Punta Cana Airport Transfers">Punta Cana Airport Transfers</a>
+            <a href="/punta-cana-to-bavaro-transfers" title="Punta Cana to Bavaro Shuttle">Punta Cana to Bavaro Shuttle</a>
+            <a href="/punta-cana-to-la-romana-transfers" title="Transportation from Punta Cana to La Romana">Transportation from Punta Cana to La Romana</a>
+            <a href="/punta-cana-to-cap-cana-transfers" title="Punta Cana to Cap Cana Shuttle">Punta Cana to Cap Cana Shuttle</a>
         </div>
         <div>
             <h4>Contact us</h4>
