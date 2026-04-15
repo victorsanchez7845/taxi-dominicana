@@ -26,7 +26,7 @@ mix.sass(DATA.RESOURCES+'/scss/process/login.scss', DATA.PUBLIC_FOLDER + "/css/p
 mix.sass(DATA.RESOURCES+'/scss/process/reservation-detail.scss', DATA.PUBLIC_FOLDER + "/css/process/reservation-detail.min.css");
 
 //Destinations
-mix.sass(DATA.RESOURCES+'/scss/destinations/cancun.scss', DATA.PUBLIC_FOLDER + "/css/destinations/cancun.min.css");
+mix.sass(DATA.RESOURCES+'/scss/destinations/punta-cana.scss', DATA.PUBLIC_FOLDER + "/css/destinations/punta-cana.min.css");
 mix.sass(DATA.RESOURCES+'/scss/destinations/tulum.scss', DATA.PUBLIC_FOLDER + "/css/destinations/tulum.min.css");
 mix.sass(DATA.RESOURCES+'/scss/destinations/playa-del-carmen.scss', DATA.PUBLIC_FOLDER + "/css/destinations/playa-del-carmen.min.css");
 mix.sass(DATA.RESOURCES+'/scss/destinations/akumal.scss', DATA.PUBLIC_FOLDER + "/css/destinations/akumal.min.css");

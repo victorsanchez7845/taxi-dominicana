@@ -1,0 +1,43 @@
+
+   INFO  Server running on [http://127.0.0.1:8000].
+
+  Press Ctrl+C to stop the server
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $meta is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 16.
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $path is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 29.
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $path is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 43.
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $path is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 52.
+
+  2026-04-15 16:35:59 ................................................... ~ 1s
+  2026-04-15 16:36:00 /assets/css/base.min.css .......................... ~ 0s
+  2026-04-15 16:36:00 /assets/css/website/index.min.css ................. ~ 0s
+  2026-04-15 16:36:00 /assets/js/base/index.min.js ...................... ~ 0s
+  2026-04-15 16:36:00 /assets/img/banners/home/home-desktop.webp ........ ~ 0s
+  2026-04-15 16:36:00 /assets/js/bookingbox/index.min.js ................ ~ 0s
+  2026-04-15 16:36:01 /assets/img/svg/icons.svg ......................... ~ 0s
+  2026-04-15 16:36:01 /assets/img/logo.webp ............................. ~ 0s
+  2026-04-15 16:36:01 /assets/img/reviews/clients_background.webp ....... ~ 0s
+  2026-04-15 16:36:01 /assets/img/svg/bars.svg .......................... ~ 0s
+  2026-04-15 16:36:01 /assets/img/svg/close.svg ......................... ~ 0s
+  2026-04-15 16:36:01 /assets/img/home/taxi-punta-cana-aeropuerto-banner.webp  ~ 0s
+  2026-04-15 16:36:01 /assets/img/home/taxirivi-cliente.webp ............ ~ 0s
+  2026-04-15 16:36:01 /assets/img/services/suburban.webp ................ ~ 0s
+  2026-04-15 16:36:01 /assets/img/services/van.webp ..................... ~ 0s
+  2026-04-15 16:36:01 /assets/img/services/crafter.webp ................. ~ 0s
+  2026-04-15 16:36:04 /assets/img/reviews/1.webp ........................ ~ 0s
+  2026-04-15 16:36:04 /assets/img/reviews/2.webp ........................ ~ 0s
+  2026-04-15 16:36:04 /assets/img/reviews/3.webp ........................ ~ 0s
+  2026-04-15 16:36:04 /assets/img/reviews/4.webp ........................ ~ 0s
+  2026-04-15 16:36:04 ................................................... ~ 0s
+  2026-04-15 16:36:04 /assets/img/destinations/tulum-destino.webp ....... ~ 0s
+  2026-04-15 16:36:04 /assets/img/destinations/playa-del-carmen-destino.webp  ~ 0s
+  2026-04-15 16:36:04 /assets/img/destinations/punta-cana-zona-hotelera.webp  ~ 0s
+  2026-04-15 16:36:04 /assets/img/destinations/destino-akumal.webp ...... ~ 0s
+  2026-04-15 16:36:04 /assets/img/destinations/puerto-morelos-destino-taxi.webp  ~ 0s
+  2026-04-15 16:36:04 /assets/img/destinations/destino-puerto-aventuras.webp  ~ 0s
+  2026-04-15 16:36:04 /assets/img/home/client.webp ...................... ~ 0s
+  2026-04-15 16:36:05 /assets/img/logo.png .............................. ~ 0s
+  2026-04-15 16:36:06 ................................................... ~ 0s

@@ -8,7 +8,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="application-name" content="Website">
-        <meta name="author" content="Caribbean Taxi">
+        <meta name="author" content="Punta Cana Airport Transfers">
         <meta name="robots" content="index,follow">
         <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
         <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
@@ -70,25 +70,26 @@
             {
                 "@context": "https://schema.org",
                 "@type": "LocalBusiness",
-                "name": "Taxi Riviera Maya",
+                "name": "Punta Cana Airport Transfers",
                 "priceRange": "$$",
                 "image": [
-                    "https://caribbean-taxi.com/assets/img/website/logo.webp"
+                    "https://punta-cana-airport-transfers.com/assets/img/website/logo.webp"
                 ],
                 "hasMap": "https://www.google.com/maps/place/Caribbean+Taxi/@21.0383514,-86.8689682,15z/data=!4m6!3m5!1s0x8f4e81e477a28935:0x2613d52928408f18!8m2!3d21.0383514!4d-86.8689682!16s%2Fg%2F11l287r9yd?hl=es&entry=tts",       
                 "telephone": "+52 (998) 387.0238",
-                "url": "https://caribbean-taxi.com",
+                "url": "https://punta-cana-airport-transfers.com",
                 "sameAs": [
-                    "https://www.facebook.com/taxirivieramayaMX",
-                    "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Riviera_Maya-Cancun_Yucatan_Peninsula.html"
+                    "https://www.facebook.com/PuntaCanaAirportTransfers",
+                    "#",
+                    "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Punta Cana_Maya-La_Altagracia_Dominican_Republic.html"
                 ],
                 "address": {
                     "@type": "PostalAddress",
-                    "streetAddress": "Alfredo V. Bonfil",
-                    "addressLocality": "Cancun",
-                    "addressRegion": "Quintana Roo",
-                    "postalCode": "77565",
-                    "addressCountry": "Mexico"
+                    "streetAddress": "Punta Cana Airport",
+                    "addressLocality": "Punta Cana",
+                    "addressRegion": "Dominican Republic",
+                    "postalCode": "23000",
+                    "addressCountry": "Dominican Republic"
                 },                    
                 "openingHoursSpecification": {
                     "@type": "OpeningHoursSpecification",
@@ -100,7 +101,7 @@
                     "latitude": 21.03858878502456,
                     "longitude": 86.86897265996767
                 },                
-                "Logo": "https://caribbean-taxi.com/assets/img/website/logo.webp"
+                "Logo": "https://punta-cana-airport-transfers.com/assets/img/website/logo.webp"
             }
         </script>
         

@@ -3,14 +3,14 @@
         <div>
             <picture>
                 <source srcset="/assets/img/logo.png" type="image/webp">
-                <img src="/assets/img/logo.png" alt="Caribbean Taxi" title="Caribbean Taxi" loading="lazy" width="222" height="82">
+                <img src="/assets/img/logo.png" alt="Punta Cana Airport Transfers" title="Punta Cana Airport Transfers" loading="lazy" width="222" height="82">
             </picture>
-            <p>More than a decade of experience, we offer the safest, fastest and most reliable transfer in Cancun.</p>
+            <p>More than a decade of experience, we offer the safest, fastest and most reliable transfer in Punta Cana.</p>
             @if(false)
             <div class="social">
-                <a href="https://www.facebook.com/taxirivieramayaMX" title="Facebook" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-facebook"></use></svg></a>
-                <a href="https://twitter.com/RivieraMayaTaxi" title="Twitter" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-twitter"></use></svg></a>
-                <a href="https://www.instagram.com/taxirivieramaya/" title="Instagram" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-instagram"></use></svg></a>
+                <a href="#" title="Facebook" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-facebook"></use></svg></a>
+                <a href="https://twitter.com/PuntaCanaTransfers" title="Twitter" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-twitter"></use></svg></a>
+                <a href="#" title="Instagram" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-instagram"></use></svg></a>
             </div>
             @endif
         </div>
@@ -22,10 +22,10 @@
         </div>
         <div>
             <h4>Destinations</h4>
-            <a href="/cancun-airport-transportation" title="Cancun Airport Transportation">Cancun Airport Transportation</a>
-            <a href="/cancun-to-tulum-shuttle" title="Cancun to Tulum Shuttle">Cancun to Tulum Shuttle</a>
-            <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation from Cancun to Playa del Carmen">Transportation from Cancun to Playa del Carmen</a>
-            <a href="/cancun-to-akumal-shuttle" title="Cancun to Akumal Shuttle">Cancun to Akumal Shuttle</a>
+            <a href="/punta-cana-airport-transportation" title="Punta Cana Airport Transportation">Punta Cana Airport Transportation</a>
+            <a href="/punta-cana-to-tulum-shuttle" title="Punta Cana to Tulum Shuttle">Punta Cana to Tulum Shuttle</a>
+            <a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Transportation from Punta Cana to Playa del Carmen">Transportation from Punta Cana to Playa del Carmen</a>
+            <a href="/punta-cana-to-akumal-shuttle" title="Punta Cana to Akumal Shuttle">Punta Cana to Akumal Shuttle</a>
         </div>
         <div>
             <h4>Contact us</h4>

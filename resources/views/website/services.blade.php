@@ -18,14 +18,14 @@
 
     <div class="container offer-items">
         <div class="top">
-            <h3>Why Choose Caribbean Taxi</h3>
+            <h3>Why Choose Punta Cana Airport Transfers</h3>
         </div>
         <div class="bottom">
             <div class="left">
-                <p>Whether you're embarking on a vacation or a business trip, Caribbean Taxi is your go-to partner for reliable, certified, and customer-focused transportation services. Our goal is to ensure your journey from the airport to your destination is not just a transfer but an enjoyable and memorable part of your travel experience.</p>
+                <p>Whether you're embarking on a vacation or a business trip, Punta Cana Airport Transfers is your go-to partner for reliable, certified, and customer-focused transportation services. Our goal is to ensure your journey from the airport to your destination is not just a transfer but an enjoyable and memorable part of your travel experience.</p>
             </div>
             <div class="right">
-                <p>Embark on a journey with Caribbean Taxi, where professionalism, friendliness, and top-notch services come together to make every ride with us a pleasant and satisfying adventure in the stunning Riviera Maya. Book with us and experience the difference in transportation excellence!</p>
+                <p>Embark on a journey with Punta Cana Airport Transfers, where professionalism, friendliness, and top-notch services come together to make every ride with us a pleasant and satisfying adventure in the stunning Punta Cana. Book with us and experience the difference in transportation excellence!</p>
             </div>
         </div>
     </div>
@@ -33,33 +33,33 @@
     <div class="gray">
         <div class="container vehicle-items">
             <div class="top">
-                <h2>Our Services: Explore Tailored Transportation Options with Caribbean Taxi</h2>
-                <p>Taxi Riviera Maya - Quintana Roo</p>
+                <h2>Our Services: Explore Tailored Transportation Options with Punta Cana Airport Transfers</h2>
+                <p>Punta Cana Airport Transfers - Dominican Republic</p>
             </div>
             <div class="bottom">
                 <div class="left">
                     <picture>
-                        <source srcset="/assets/img/services/transporter-taxi-riviera-maya.webp" type="image/webp">
-                        <img src="/assets/img/services/transporter-taxi-riviera-maya.jpg" alt="Taxi Riviera Maya" title="Taxi Riviera Maya" loading="lazy" width="573" height="374">
+                        <source srcset="/assets/img/services/transporter-punta-cana-airport-transfers.webp" type="image/webp">
+                        <img src="/assets/img/services/transporter-punta-cana-airport-transfers.jpg" alt="Punta Cana Airport Transfers" title="Punta Cana Airport Transfers" loading="lazy" width="573" height="374">
                     </picture>
                 </div>
                 <div class="right">
-                    <p>At Caribbean Taxi, we take pride in offering a range of transportation services designed to cater to the unique needs of every traveler. Our array of options ensures you find the perfect solution for your transfer in the Riviera Maya.</p>
+                    <p>At Punta Cana Airport Transfers, we take pride in offering a range of transportation services designed to cater to the unique needs of every traveler. Our array of options ensures you find the perfect solution for your transfer in the Punta Cana.</p>
                     <p><strong>Hotel-to-Hotel Transfer:</strong></p>
-                    <p>Enjoy a seamless transition between hotels with our specialized transfer service. With punctuality and comfort, we bring the essence of Caribbean Taxi directly to your destination.</p>
+                    <p>Enjoy a seamless transition between hotels with our specialized transfer service. With punctuality and comfort, we bring the essence of Punta Cana Airport Transfers directly to your destination.</p>
                     <p><strong>Private Transportation:</strong></p>
                     <p>Experience privacy and luxury with our private transportation service. A dedicated driver awaits at the airport to take you directly to your destination, without any additional stops.</p>
                     <p><strong>Group Transfers:</strong></p>
-                    <p>Perfect for group trips, our group transfer service ensures everyone arrives together and comfortably at their destination in the Riviera Maya.</p>
+                    <p>Perfect for group trips, our group transfer service ensures everyone arrives together and comfortably at their destination in the Punta Cana.</p>
                     <p><strong>Transfer to Tourist Attractions:</strong></p>
-                    <p>Discover the wonders of the Riviera Maya in comfort. We offer direct transfers to tourist attractions, ensuring your adventure begins from the moment you step on board.</p>
+                    <p>Discover the wonders of the Punta Cana in comfort. We offer direct transfers to tourist attractions, ensuring your adventure begins from the moment you step on board.</p>
                     <p><strong>Open-Service:</strong></p>
-                    <p>Want to explore the region at your own pace? With our open-service, you can use the van unlimitedly for a specified time, giving you the freedom to uncover the Riviera Maya on your terms.</p>
+                    <p>Want to explore the region at your own pace? With our open-service, you can use the van unlimitedly for a specified time, giving you the freedom to uncover the Punta Cana on your terms.</p>
                     <p><strong>Wedding Transfers:</strong></p>
                     <p>Celebrate your special day in style. Our wedding transfer service ensures that the bride, groom, and guests arrive with elegance and punctuality at the ceremony venue.</p>
                     <p><strong>Corporate Events and Conferences:</strong></p>
                     <p>We facilitate transportation for corporate events and conferences. Whether for business meetings or conferences, our team handles logistics to ensure a seamless experience.</p>
-                    <p>At Caribbean Taxi, we are committed to providing transportation options that suit your needs. Book with us and discover the comfort, reliability, and exceptional service that sets us apart in the Riviera Maya.</p>
+                    <p>At Punta Cana Airport Transfers, we are committed to providing transportation options that suit your needs. Book with us and discover the comfort, reliability, and exceptional service that sets us apart in the Punta Cana.</p>
                 </div>
             </div>
         </div>

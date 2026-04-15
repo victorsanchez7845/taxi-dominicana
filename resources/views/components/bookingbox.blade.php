@@ -7,7 +7,7 @@
             </div>
             <div class="two">
                 <button type="button" class="aff-toggle-currency active" data-currency="USD">USD</button>
-                <button type="button" class="aff-toggle-currency" data-currency="MXN">MXN</button>
+                <button type="button" class="aff-toggle-currency" data-currency="USD">USD</button>
             </div>
         </div>
         <div class="elements">

@@ -14,12 +14,12 @@
             "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
             "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
            ],
-          "description": "Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.",
+          "description": "Servicio de Taxi desde y hacia el Aeropuerto de Punta Cana, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Punta Cana.",
           "sku": "019005",
           "mpn": "029005",
           "brand": {
             "@type": "Brand",
-            "name": "Taxi Riviera Maya"
+            "name": "Punta Cana Airport Transfers"
           },
           "review": {
             "@type": "Review",
@@ -40,8 +40,8 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/traslado-aeropuerto-cancun-a-costa-mujeres",
-            "priceCurrency": "MXN",
+            "url": "https://caribbean-taxi.com/traslado-aeropuerto-punta cana-a-costa-mujeres",
+            "priceCurrency": "USD",
             "price": 990,
             "priceValidUntil": "2024-12-31",
             "itemCondition": "https://schema.org/UsedCondition",
@@ -58,17 +58,17 @@
                 "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
                 "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
             ],
-            "name": "Taxi Riviera Maya",
-            "hasMap": "https://www.google.com/maps/place/Taxi+Riviera+Maya/@21.0723366,-86.8489683,17z/data=!4m6!3m5!1s0x8f4c2be10a05f649:0xc59c79538ab20351!8m2!3d21.0723316!4d-86.8463934!16s%2Fg%2F11sbd81d37?entry=tts&shorturl=1",
+            "name": "Punta Cana Airport Transfers",
+            "hasMap": "https://www.google.com/maps/place/Taxi+Punta Cana+Maya/@21.0723366,-86.8489683,17z/data=!4m6!3m5!1s0x8f4c2be10a05f649:0xc59c79538ab20351!8m2!3d21.0723316!4d-86.8463934!16s%2Fg%2F11sbd81d37?entry=tts&shorturl=1",
             "sameAs": [
-                "https://www.facebook.com/taxirivieramayaMX",
-                "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Riviera_Maya-Cancun_Yucatan_Peninsula.html"
+                "#",
+                "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Punta Cana_Maya-La_Altagracia_Dominican_Republic.html"
             ],
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "Campestre Lol-be Alfredo V. Bonfil",
-              "addressLocality": "Cancun",
-              "addressRegion": "Quintana Roo",
+              "addressLocality": "Punta Cana",
+              "addressRegion": "Dominican Republic",
               "postalCode": "77560",
               "addressCountry": "MX"
             },
@@ -89,10 +89,10 @@
               "latitude": 21.072476745380349,
               "longitude": -86.846425590797892
             },
-            "url": "https://caribbean-taxi.com/traslado-aeropuerto-cancun-a-costa-mujeres",
+            "url": "https://caribbean-taxi.com/traslado-aeropuerto-punta cana-a-costa-mujeres",
             "telephone": "+529982942389",
             "email": "bookings@caribbean-taxi.com",            
-            "priceRange": "990 MXN - 1980 MXN",
+            "priceRange": "990 USD - 1980 USD",
             "openingHoursSpecification": [
                 {
                 "@type": "OpeningHoursSpecification",
@@ -131,8 +131,8 @@
     <div class="heading">
         <div class="container">
             <div class="top">
-                <h1>Traslado Aeropuerto Cancún a Costa Mujeres</h1>
-                <p>Descubre las tarifas más bajas en transporte privado desde Cancún hasta Costa Mujeres.</p>
+                <h1>Traslado Aeropuerto Punta Cana a Costa Mujeres</h1>
+                <p>Descubre las tarifas más bajas en transporte privado desde Punta Cana hasta Costa Mujeres.</p>
             </div>
             <div class="bottom">                
                 <x-bookingbox/>
@@ -142,16 +142,16 @@
 
     <div class="container banner_container">
         <div class="left">
-            <h2>Traslado de Cancún a Costa Mujeres por Taxi Riviera Maya</h2>
-            <p>&iexcl;Descubre la seguridad y la comodidad en tu traslado de Canc&uacute;n a Costa Mujeres con Taxi Riviera Maya! Nos enorgullece ofrecer tarifas competitivas sin comprometer la calidad. Con m&aacute;s de una d&eacute;cada de experiencia, somos l&iacute;deres en la Riviera Maya.</p>
+            <h2>Traslado de Punta Cana a Costa Mujeres por Punta Cana Airport Transfers</h2>
+            <p>&iexcl;Descubre la seguridad y la comodidad en tu traslado de Canc&uacute;n a Costa Mujeres con Punta Cana Airport Transfers! Nos enorgullece ofrecer tarifas competitivas sin comprometer la calidad. Con m&aacute;s de una d&eacute;cada de experiencia, somos l&iacute;deres en la Punta Cana.</p>
             <p>Al elegirnos, garantizas un viaje c&oacute;modo y seguro desde el aeropuerto de Canc&uacute;n a Costa Mujeres. Nuestro servicio incluye monitoreo de vuelo para evitar esperas innecesarias y eliminar cargos por retrasos.</p>
-            <p>En Taxi Riviera Maya, simplificamos el proceso de reserva y traslado, priorizando tu seguridad y comodidad. Nuestros conductores profesionales y atenci&oacute;n personalizada nos convierten en la opci&oacute;n preferida. Conf&iacute;a en nosotros para disfrutar de la mejor relaci&oacute;n calidad-precio en traslados de Canc&uacute;n a Costa Mujeres.</p>
-            <p>Reserva tu traslado ahora y vive una experiencia inigualable con Taxi Riviera Maya. Tu viaje de lujo comienza desde el momento en que nos eliges. &iexcl;Bienvenido a un traslado excepcional hacia el para&iacute;so de Costa Mujeres!</p>
+            <p>En Punta Cana Airport Transfers, simplificamos el proceso de reserva y traslado, priorizando tu seguridad y comodidad. Nuestros conductores profesionales y atenci&oacute;n personalizada nos convierten en la opci&oacute;n preferida. Conf&iacute;a en nosotros para disfrutar de la mejor relaci&oacute;n calidad-precio en traslados de Canc&uacute;n a Costa Mujeres.</p>
+            <p>Reserva tu traslado ahora y vive una experiencia inigualable con Punta Cana Airport Transfers. Tu viaje de lujo comienza desde el momento en que nos eliges. &iexcl;Bienvenido a un traslado excepcional hacia el para&iacute;so de Costa Mujeres!</p>
         </div>
         <div class="right">
             <picture>
-                <source srcset="/assets/img/home/taxi-cancun-aeropuerto-banner.webp" type="image/webp">
-                <img src="/assets/img/home/taxi-cancun-aeropuerto-banner.jpg" alt="La mejor empresa de taxi en la riviera maya" title="La mejor empresa de taxi en la riviera maya" loading="lazy" width="573" height="374">
+                <source srcset="/assets/img/home/taxi-punta-cana-aeropuerto-banner.webp" type="image/webp">
+                <img src="/assets/img/home/taxi-punta-cana-aeropuerto-banner.jpg" alt="La mejor empresa de taxi en la punta cana" title="La mejor empresa de taxi en la punta cana" loading="lazy" width="573" height="374">
             </picture>
         </div>
     </div>
@@ -167,10 +167,10 @@
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#building"></use></svg>
                     <div>
                         <p>Traslado a hoteles en Costa Mujeres</p>
-                        <h2>TRASLADO DE CANCUN A COSTA MUJERES</h2>
+                        <h2>TRASLADO DE PUNTA CANA A COSTA MUJERES</h2>
                     </div>
                 </div>
-                <p>Traslado a Costa Mujeres, te llevamos de Cancún a cualquier hotel, airbnb, resort o playa en Costa Mujeres y de regreso al aeropuerto de cancún.</p>
+                <p>Traslado a Costa Mujeres, te llevamos de Punta Cana a cualquier hotel, airbnb, resort o playa en Costa Mujeres y de regreso al aeropuerto de cancún.</p>
             </div>
 
             <div class="item van">
@@ -181,7 +181,7 @@
                         <h2>TRASLADO DE CANCÚN A COSTA MUJERES SEGURO</h2>
                     </div>
                 </div>
-                <p>Disfruta del mejor traslado de Cancún a Costa Mujeres, puntual, cómodo, seguro, con choferes capacitados y con actitud de servicio en todo momento.</p>
+                <p>Disfruta del mejor traslado de Punta Cana a Costa Mujeres, puntual, cómodo, seguro, con choferes capacitados y con actitud de servicio en todo momento.</p>
             </div>
 
             <div class="item airport">
@@ -192,7 +192,7 @@
                         <h2>EMPRESA OFICIAL DE TRANSPORTE</h2>
                     </div>
                 </div>
-                <p>Somos la empresa oficial de Traslados a Costa Mujeres y con todos los permisos para operar en cualquier hotel en Costa Mujeres y dentro del aeropuerto de Cancún.</p>
+                <p>Somos la empresa oficial de Traslados a Costa Mujeres y con todos los permisos para operar en cualquier hotel en Costa Mujeres y dentro del aeropuerto de Punta Cana.</p>
             </div>
 
         </div>
@@ -201,22 +201,22 @@
     <div class="container gray-container-information">
         <picture>
             <source srcset="/assets/img/home/taxirivi-cliente.webp" type="image/webp">
-            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Cancun Airport Taxi Service" title="Reliable Cancun Airport Taxi Service" loading="lazy" width="352" height="258">
+            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Punta Cana Airport Taxi Service" title="Reliable Punta Cana Airport Taxi Service" loading="lazy" width="352" height="258">
         </picture>
         <div>
-            <h2>¡Descubre la Excelencia en Transporte a Costa Mujeres con Taxi Riviera Maya!</h2>
-            <p>Planifica tu viaje de manera &oacute;ptima reservando el servicio de Traslado de Aeropuerto Canc&uacute;n a Costa Mujeres con Taxi Riviera Maya. Evita preocupaciones por la disponibilidad de transporte y los cambios de precios estacionales al realizar tu reserva con anticipaci&oacute;n.</p>
-            <p>Al elegir Taxi Riviera Maya para tu traslado desde el aeropuerto de Canc&uacute;n a Costa Mujeres, olv&iacute;date de hacer fila y de tiempos de espera para tomar una van o autob&uacute;s hacia Costa Mujeres. Garantizamos un servicio personalizado y de calidad disponible en el d&iacute;a y horario que mejor se adapte a tus necesidades.</p>
+            <h2>¡Descubre la Excelencia en Transporte a Costa Mujeres con Punta Cana Airport Transfers!</h2>
+            <p>Planifica tu viaje de manera &oacute;ptima reservando el servicio de Traslado de Aeropuerto Canc&uacute;n a Costa Mujeres con Punta Cana Airport Transfers. Evita preocupaciones por la disponibilidad de transporte y los cambios de precios estacionales al realizar tu reserva con anticipaci&oacute;n.</p>
+            <p>Al elegir Punta Cana Airport Transfers para tu traslado desde el aeropuerto de Canc&uacute;n a Costa Mujeres, olv&iacute;date de hacer fila y de tiempos de espera para tomar una van o autob&uacute;s hacia Costa Mujeres. Garantizamos un servicio personalizado y de calidad disponible en el d&iacute;a y horario que mejor se adapte a tus necesidades.</p>
             <p>A diferencia de otras opciones de transporte como el taxi local, la van del aeropuerto o el servicio de autob&uacute;s ADO, nosotros te llevamos a tu destino u hotel en Costa Mujeres sin necesidad de adquirir otros servicios de movilidad adicionales ni compartir tus viajes con desconocidos.</p>
             <p>Tus reservaciones con nosotros no sufrir&aacute;n modificaciones ni interrupciones, ya que todos nuestros servicios de traslado aeropuerto Canc&uacute;n a Costa Mujeres son directos, sin escalas y garantizados, y si deseas cancelar, lo puedes hacer totalmente gratis con anticipaci&oacute;n con alg&uacute;n asesor.</p>
-            <p>Con Taxi Riviera Maya, obtendr&aacute;s el mejor transporte en Costa Mujeres que te permitir&aacute; conocer la ciudad de manera r&aacute;pida, segura y c&oacute;moda. Reserva ahora tu transporte de Canc&uacute;n a Costa Mujeres y disfruta del mejor servicio al mejor precio hacia cualquier hotel en Costa Mujeres.</p>
+            <p>Con Punta Cana Airport Transfers, obtendr&aacute;s el mejor transporte en Costa Mujeres que te permitir&aacute; conocer la ciudad de manera r&aacute;pida, segura y c&oacute;moda. Reserva ahora tu transporte de Canc&uacute;n a Costa Mujeres y disfruta del mejor servicio al mejor precio hacia cualquier hotel en Costa Mujeres.</p>
             <a href="#" class="btn" title="Reserva Ahora">RESERVA AHORA</a>
         </div>
     </div>
 
     <div class="container our_services">
         <div class="top">
-            <h2>Servicios de Taxi en el Aeropuerto de Cancún</h2>
+            <h2>Servicios de Taxi en el Aeropuerto de Punta Cana</h2>
         </div>
         <div class="bottom">
 
@@ -224,14 +224,14 @@
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/van.webp" type="image/webp">
-                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Taxi Aeropuerto Cancún Privado" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Taxi Aeropuerto Punta Cana Privado" loading="lazy" width="343" height="196">
                     </picture>
                 </div>
-                <h3>Taxi Aeropuerto Cancún Privado</h3>
+                <h3>Taxi Aeropuerto Punta Cana Privado</h3>
                 <div>
-                    <p>Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.</p>
+                    <p>Servicio de Taxi desde y hacia el Aeropuerto de Punta Cana, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Punta Cana.</p>
                 </div>
-                <p>Desde <span>$539 MXN</span></p>
+                <p>Desde <span>$539 USD</span></p>
             </div>
             <div>
                 <div class="image">
@@ -244,7 +244,7 @@
                 <div>
                     <p>Este transporte está disponible para todos nuestros destinos, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. (Los niños/infantes son considerados como pasajeros).</p>
                 </div>
-                <p>Desde <span>$1,404 MXN</span></p>
+                <p>Desde <span>$1,404 USD</span></p>
             </div>
             <div>
                 <div class="image">
@@ -257,7 +257,7 @@
                 <div>
                     <p>Este transporte está disponible para todos nuestros destinos, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. (Los niños/infantes son considerados como pasajeros).</p>
                 </div>
-                <p>Desde <span>$630 MXN</span></p>
+                <p>Desde <span>$630 USD</span></p>
             </div>
 
         </div>
@@ -320,175 +320,175 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>Cancun Downtown</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td><strong>Punta Cana Downtown</strong></td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 USD</td>
                     </tr>
                     <tr>
-                        <td><strong>Cancun Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,079 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td><strong>Punta Cana Hotel Zone</strong></td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,079 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Morelos</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$990 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,880 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,080 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,060 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,880 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,660 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$990 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,880 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,080 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,060 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,880 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,660 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Playa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Juárez</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$850 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,600 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$850 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,600 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,800 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,600 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Playa del Carmen</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,500 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,700 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,500 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,900 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,900 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,700 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Costa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,718 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Cozumel</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$5,700 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,400 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,718 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,900 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$5,700 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,400 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Aventuras</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,600 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,300 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Akumal</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$7,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,900 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,800 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,500 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,700 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$7,300 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Mahahual</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,600 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$11,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,404 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Holbox</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,200 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$10,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$10,620 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$20,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$10,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$20,500 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,200 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$10,300 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$10,620 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$20,900 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$10,300 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$20,500 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Valladolid</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$7,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$15,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$15,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$31,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$15,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$7,800 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$15,500 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$15,700 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$31,404 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$15,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Merida</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$9,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$17,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$17,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$32,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$17,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$9,800 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$17,500 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$17,700 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$32,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$17,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Bacalar</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,500 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,404 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,500 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Coba</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Arco</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                 </tbody>
             </table>            
@@ -516,7 +516,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/4.webp" type="image/webp">
-                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Taxi Riviera Maya" title="ISABEL P." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Punta Cana Airport Transfers" title="ISABEL P." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>ISABEL P.</p>
@@ -525,7 +525,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>¡En mi llegada al Aeropuerto de Cancún con destino a Costa Mujeres, el equipo de Taxi Riviera Maya me dio una cordial bienvenida! El conductor profesional y la espaciosa camioneta aseguraron un inicio perfecto para mi estancia. La tarifa justa y el servicio excepcional hacen de Taxi Riviera Maya la mejor elección.</p>
+                            <p>¡En mi llegada al Aeropuerto de Punta Cana con destino a Costa Mujeres, el equipo de Punta Cana Airport Transfers me dio una cordial bienvenida! El conductor profesional y la espaciosa camioneta aseguraron un inicio perfecto para mi estancia. La tarifa justa y el servicio excepcional hacen de Punta Cana Airport Transfers la mejor elección.</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -535,7 +535,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/1.webp" type="image/webp">
-                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Taxi Riviera Maya" title="SARAH H." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Punta Cana Airport Transfers" title="SARAH H." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>SARAH H.</p>
@@ -544,7 +544,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>¡Increíble bienvenida en el Aeropuerto de Cancún con Taxi Riviera Maya hacia Costa Mujeres! La puntualidad y la impecable camioneta crearon una experiencia de traslado inolvidable. Relación calidad-precio excepcional. Definitivamente, la mejor opción.</p>
+                            <p>¡Increíble bienvenida en el Aeropuerto de Punta Cana con Punta Cana Airport Transfers hacia Costa Mujeres! La puntualidad y la impecable camioneta crearon una experiencia de traslado inolvidable. Relación calidad-precio excepcional. Definitivamente, la mejor opción.</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -554,7 +554,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/3.webp" type="image/webp">
-                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Taxi Riviera Maya" title="KEYLA L." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Punta Cana Airport Transfers" title="KEYLA L." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>KEYLA L.</p>
@@ -563,7 +563,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Desde mi llegada al Aeropuerto de Cancún con destino a Costa Mujeres, el servicio de Taxi Riviera Maya se destacó. La bienvenida fue impecable, la tarifa accesible. Recomiendo ampliamente para un traslado sin complicaciones.</p>
+                            <p>Desde mi llegada al Aeropuerto de Punta Cana con destino a Costa Mujeres, el servicio de Punta Cana Airport Transfers se destacó. La bienvenida fue impecable, la tarifa accesible. Recomiendo ampliamente para un traslado sin complicaciones.</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -573,7 +573,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/2.webp" type="image/webp">
-                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Taxi Riviera Maya" title="KARLA G." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Punta Cana Airport Transfers" title="KARLA G." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>KARLA G.</p>
@@ -582,7 +582,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>A pesar de los desafíos en el Aeropuerto de Cancún con destino a Costa Mujeres, el traslado con Taxi Riviera Maya fue un alivio. La cálida bienvenida del conductor, el precio justo y la calidad del servicio lo convierten en mi elección total en Costa Mujeres. ¡Altamente recomendado!</p>
+                            <p>A pesar de los desafíos en el Aeropuerto de Punta Cana con destino a Costa Mujeres, el traslado con Punta Cana Airport Transfers fue un alivio. La cálida bienvenida del conductor, el precio justo y la calidad del servicio lo convierten en mi elección total en Costa Mujeres. ¡Altamente recomendado!</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -595,7 +595,7 @@
 
     <div class="container how_to_information">
         <div class="top">
-            <h2>¿Cómo llegar de Cancún a Costa Mujeres?</h2>
+            <h2>¿Cómo llegar de Punta Cana a Costa Mujeres?</h2>
         </div>
         <div class="bottom">
             <div class="left">
@@ -614,8 +614,8 @@
             </div>
             <div class="right">
                 <picture>
-                    <source srcset="/assets/img/destinations/cancun/cancun.webp" type="image/webp">
-                    <img src="/assets/img/destinations/cancun/cancun.jpg" alt="Servicios de transporte en el aeropuerto de cancún" title="Servicios de transporte en el aeropuerto de cancún" loading="lazy" width="373" height="260">
+                    <source srcset="/assets/img/destinations/punta-cana/punta-cana.webp" type="image/webp">
+                    <img src="/assets/img/destinations/punta-cana/punta-cana.jpg" alt="Servicios de transporte en el aeropuerto de cancún" title="Servicios de transporte en el aeropuerto de cancún" loading="lazy" width="373" height="260">
                 </picture>
             </div>
         </div>
@@ -624,55 +624,55 @@
     <div class="container destinations_information">
         <div class="top">
             <h2>Servicio de traslado de cancún a costa mujeres y más</h2>
-            <p>Descubre nuestro servicio completo de transporte de Cancún a Costa Mujeres y viceversa, desde cualquier destino en la Riviera Maya o el Aeropuerto. Estamos comprometidos a proporcionar un servicio integral siempre listo para llevarte a tu hotel o atracción favorita en Costa Mujeres o cualquier destino en la Riviera Maya. ¡Confía en nosotros para hacer de tu viaje a Costa Mujeres una experiencia cómoda y sin complicaciones!</p>
+            <p>Descubre nuestro servicio completo de transporte de Punta Cana a Costa Mujeres y viceversa, desde cualquier destino en la Punta Cana o el Aeropuerto. Estamos comprometidos a proporcionar un servicio integral siempre listo para llevarte a tu hotel o atracción favorita en Costa Mujeres o cualquier destino en la Punta Cana. ¡Confía en nosotros para hacer de tu viaje a Costa Mujeres una experiencia cómoda y sin complicaciones!</p>
         </div>
         <div class="bottom">
             <div>
-                <a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">
+                <a href="/punta-cana-to-tulum-shuttle" title="Traslado a Tulum">
                     <picture>
                         <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/tulum-destino.jpg" alt="Traslado a Tulum" title="Traslado a Tulum" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 40 minutos</p>
+                    <h3><a href="/punta-cana-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
+                <a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
                     <picture>
                         <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Traslado a Playa del Carmen" title="Traslado a Playa del Carmen" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 55 minutos</p>
+                    <h3><a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 55 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">
+                <a href="/punta-cana-airport-transportation" title="Taxi en el Aeropuerto de Punta Cana">
                     <picture>
-                        <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
-                        <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Cancún" title="Taxi en el Aeropuerto de Cancún" loading="lazy" width="373" height="260">
+                        <source srcset="/assets/img/destinations/punta-cana-zona-hotelera.webp" type="image/webp">
+                        <img src="/assets/img/destinations/punta-cana-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Punta Cana" title="Taxi en el Aeropuerto de Punta Cana" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
+                    <h3><a href="/punta-cana-airport-transportation" title="Taxi en el Aeropuerto de Punta Cana">Taxi en el Aeropuerto de Punta Cana</a></h3>
                     <p>Disfruta de un servicio de Traslado a la Zona Hotelera seguro, rápido y confiable. El tiempo estimado de traslado desde el Aeropuerto a la Zona Hotelera es de 30 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">
+                <a href="/punta-cana-to-akumal-shuttle" title="Traslado a Akumal">
                     <picture>
                         <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
                         <img src="/assets/img/destinations/destino-akumal.jpg" alt="Traslado a Akumal" title="Traslado a Akumal" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún a Akumal es de 1 hora y 40 minutos</p>
+                    <h3><a href="/punta-cana-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana a Akumal es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
@@ -682,7 +682,7 @@
                 </picture>
                 <div>
                     <h3>Traslado a Puerto Morelos</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Morelos seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 30 minutos</p>
+                    <p>Disfruta de un servicio de Traslado a Puerto Morelos seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 30 minutos</p>
                 </div>
             </div>
             <div>
@@ -692,7 +692,7 @@
                 </picture>
                 <div>
                     <h3>Traslado a Puerto Aventuras</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Aventuras seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 20 minutos</p>
+                    <p>Disfruta de un servicio de Traslado a Puerto Aventuras seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 1 hora y 20 minutos</p>
                 </div>
             </div>
         </div>
@@ -701,8 +701,8 @@
     <div class="container additional_information">
         <div class="bottom">
             <div class="left">                
-                <h2>Descubre Costa Mujeres con Taxi Riviera Maya</h2>
-                <p>Costa Mujeres, un destino paradis&iacute;aco ubicado al norte de Canc&uacute;n, deslumbra a los visitantes con una combinaci&oacute;n &uacute;nica de belleza natural y comodidades modernas. Esta joya de la Riviera Maya ofrece una experiencia vacacional excepcional, caracterizada por playas de arena blanca, aguas cristalinas y una atm&oacute;sfera serena.</p>
+                <h2>Descubre Costa Mujeres con Punta Cana Airport Transfers</h2>
+                <p>Costa Mujeres, un destino paradis&iacute;aco ubicado al norte de Canc&uacute;n, deslumbra a los visitantes con una combinaci&oacute;n &uacute;nica de belleza natural y comodidades modernas. Esta joya de la Punta Cana ofrece una experiencia vacacional excepcional, caracterizada por playas de arena blanca, aguas cristalinas y una atm&oacute;sfera serena.</p>
                 <p>Las playas de Costa Mujeres son un espect&aacute;culo en s&iacute; mismas. Extensas y v&iacute;rgenes, ofrecen el escenario perfecto para relajarse bajo el c&aacute;lido sol caribe&ntilde;o. Sus aguas turquesas invitan a los visitantes a sumergirse y explorar la vida marina en los arrecifes cercanos.</p>
                 <p>Para los amantes de la naturaleza, Costa Mujeres presenta una rica biodiversidad. Las reservas naturales cercanas albergan una variedad de especies, desde aves tropicales hasta reptiles fascinantes. Las excursiones ecol&oacute;gicas brindan la oportunidad de adentrarse en este entorno pr&iacute;stino.</p>
                 <p>Los resorts de lujo en Costa Mujeres son otra raz&oacute;n para enamorarse de este destino. Desde hoteles frente al mar hasta complejos todo incluido, la oferta de alojamiento es elegante y exclusiva. Muchos de ellos cuentan con spas de clase mundial, restaurantes gourmet y actividades recreativas para satisfacer todos los gustos.</p>
@@ -712,7 +712,7 @@
             <div class="right">
                 <picture>
                     <source srcset="/assets/img/home/client.webp" type="image/webp">
-                    <img src="/assets/img/home/client.png" alt="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" title="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" loading="lazy" width="390" height="481">
+                    <img src="/assets/img/home/client.png" alt="Más que sólo un servicio de Taxi en el Aeropuerto de Punta Cana" title="Más que sólo un servicio de Taxi en el Aeropuerto de Punta Cana" loading="lazy" width="390" height="481">
                 </picture>
             </div>
         </div>
@@ -785,27 +785,27 @@
                 </div>
             </div>
             <div>
-                <h3>¿Ofrecen traslados privados desde el Aeropuerto de Cancún a Costa Mujeres?</h3>
+                <h3>¿Ofrecen traslados privados desde el Aeropuerto de Punta Cana a Costa Mujeres?</h3>
                 <div>
-                    <p>Sí, Taxi Riviera Maya ofrece traslados privados directos desde el aeropuerto hasta tu destino en Costa Mujeres.</p>
+                    <p>Sí, Punta Cana Airport Transfers ofrece traslados privados directos desde el aeropuerto hasta tu destino en Costa Mujeres.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cuál es la duración típica del traslado de Cancún a Costa Mujeres?</h3>
+                <h3>¿Cuál es la duración típica del traslado de Punta Cana a Costa Mujeres?</h3>
                 <div>
                     <p>El traslado generalmente toma alrededor de 30 a 40 minutos, dependiendo del tráfico y la ubicación específica en Costa Mujeres.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Es posible reservar traslados de ida y vuelta con Taxi Riviera Maya?</h3>
+                <h3>¿Es posible reservar traslados de ida y vuelta con Punta Cana Airport Transfers?</h3>
                 <div>
                     <p>Sí, puedes reservar servicios de traslado de ida y vuelta para mayor comodidad y ahorro.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cómo puedo garantizar la puntualidad en mi traslado con Taxi Riviera Maya desde Cancún a Costa Mujeres?</h3>
+                <h3>¿Cómo puedo garantizar la puntualidad en mi traslado con Punta Cana Airport Transfers desde Punta Cana a Costa Mujeres?</h3>
                 <div>
-                    <p>La puntualidad está garantizada gracias a la planificación eficiente y monitoreo constante del tráfico por parte de Taxi Riviera Maya.</p>
+                    <p>La puntualidad está garantizada gracias a la planificación eficiente y monitoreo constante del tráfico por parte de Punta Cana Airport Transfers.</p>
                 </div>
             </div>
         </div>

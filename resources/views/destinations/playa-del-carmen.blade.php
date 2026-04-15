@@ -18,7 +18,7 @@
           "mpn": "029003",
           "brand": {
             "@type": "Brand",
-            "name": "Caribbean Taxi"
+            "name": "Punta Cana Airport Transfers"
           },
           "review": {
             "@type": "Review",
@@ -39,7 +39,7 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/transportation-cancun-airport-to-playa-del-carmen",
+            "url": "https://caribbean-taxi.com/transportation-punta-cana-airport-to-playa-del-carmen",
             "priceCurrency": "USD",
             "price": 69,
             "priceValidUntil": "2024-12-31",
@@ -68,8 +68,8 @@
     <div class="heading">
         <div class="container">
             <div class="top">
-                <h1>The best Transportation from Cancun Airport to Playa del Carmen</h1>
-                <p>Best prices and service in Shuttle from Cancun Airport to Playa del Carmen!</p>
+                <h1>The best Transportation from Punta Cana Airport to Playa del Carmen</h1>
+                <p>Best prices and service in Shuttle from Punta Cana Airport to Playa del Carmen!</p>
             </div>
             <div class="bottom">                
                 <x-bookingbox/>
@@ -79,22 +79,22 @@
 
     <div class="container banner_container">
         <div class="left">
-            <h2>Certified Transportation from Cancun Airport to Playa del Carmen Company </h2>
-            <p>Experience top-notch transfers with Caribbean Taxi, a certified company specializing in Playa del Carmen transportation services. We pride ourselves on providing reliable and stress-free experiences, ensuring your vacation in Playa del Carmen starts on the best note possible. Our transparent and regulated rates allow you to plan your budget in advance, eliminating any unwelcome surprises upon reaching your destination.</p>
+            <h2>Certified Transportation from Punta Cana Airport to Playa del Carmen Company </h2>
+            <p>Experience top-notch transfers with Punta Cana Airport Transfers, a certified company specializing in Playa del Carmen transportation services. We pride ourselves on providing reliable and stress-free experiences, ensuring your vacation in Playa del Carmen starts on the best note possible. Our transparent and regulated rates allow you to plan your budget in advance, eliminating any unwelcome surprises upon reaching your destination.</p>
             <p>What sets us apart is our unwavering commitment to punctuality. Our professional drivers will be there for you on time, closely monitoring your flight for any changes in arrival time. Understanding the importance of flexibility and confidence in travel, we offer the option to pay upon arrival, assuring you that your service will be ready and waiting without any pre-trip concerns.</p>
-            <p>Safety is our top priority. Alongside flight monitoring and regulated rates, we provide traveler's insurance during your transfer, ensuring complete peace of mind throughout your vacation in Playa del Carmen. Choose Caribbean Taxi for a reliable and customer-centric experience that guarantees your transfer is as enjoyable as your vacation destinations. Travel with us and embark on your Playa del Carmen vacation with a positive and stress-free start!</p>
+            <p>Safety is our top priority. Alongside flight monitoring and regulated rates, we provide traveler's insurance during your transfer, ensuring complete peace of mind throughout your vacation in Playa del Carmen. Choose Punta Cana Airport Transfers for a reliable and customer-centric experience that guarantees your transfer is as enjoyable as your vacation destinations. Travel with us and embark on your Playa del Carmen vacation with a positive and stress-free start!</p>
         </div>
         <div class="right">
             <picture>
-                <source srcset="/assets/img/home/taxi-cancun-aeropuerto-banner.webp" type="image/webp">
-                <img src="/assets/img/home/taxi-cancun-aeropuerto-banner.jpg" alt="Passenger van with Caribbean Taxi branding" title="Passenger van with Caribbean Taxi branding" loading="lazy" width="573" height="374">
+                <source srcset="/assets/img/home/taxi-punta-cana-aeropuerto-banner.webp" type="image/webp">
+                <img src="/assets/img/home/taxi-punta-cana-aeropuerto-banner.jpg" alt="Passenger van with Punta Cana Airport Transfers branding" title="Passenger van with Punta Cana Airport Transfers branding" loading="lazy" width="573" height="374">
             </picture>
         </div>
     </div>
 
     <div class="container highlights_items">
         <div class="top">
-            <h2>Reasons to choose Caribbean Taxi</h2>
+            <h2>Reasons to choose Punta Cana Airport Transfers</h2>
         </div>
         <div class="bottom">
 
@@ -106,7 +106,7 @@
                         <h2>TRANSFER TO PLAYA DEL CARMEN</h2>
                     </div>
                 </div>
-                <p>Explore seamless transfers to every hotel or destination across the Riviera Maya. Our transfer services extend to every corner of this breathtaking region. If it's on the map, rest assured, we'll get you there with ease and comfort.</p>
+                <p>Explore seamless transfers to every hotel or destination across the Punta Cana. Our transfer services extend to every corner of this breathtaking region. If it's on the map, rest assured, we'll get you there with ease and comfort.</p>
             </div>
 
             <div class="item van">
@@ -117,18 +117,18 @@
                         <h2>RELIABLE AND SAFE TAXI</h2>
                     </div>
                 </div>
-                <p>Experience the finest transfer service to any destination in the Riviera Maya, characterized by comfort, safety, and reliability. Our skilled drivers are dedicated to providing an awesome service, ensuring your journey is not just a transfer but a delightful experience.</p>
+                <p>Experience the finest transfer service to any destination in the Punta Cana, characterized by comfort, safety, and reliability. Our skilled drivers are dedicated to providing an awesome service, ensuring your journey is not just a transfer but a delightful experience.</p>
             </div>
 
             <div class="item airport">
                 <div class="top">
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#plane-check"></use></svg>
                     <div>
-                        <p>Official Cancun Airport Transportation Company</p>
+                        <p>Official Punta Cana Airport Transportation Company</p>
                         <h2>OFFICIAL AND CERTIFIED COMPANY</h2>
                     </div>
                 </div>
-                <p>As the authorized transportation company at Cancun Airport, we possess all the necessary permits to operate seamlessly across every hotel, destination, and tourist site in Cancun and the Riviera Maya. This ensures a hassle-free and smooth experience for our customers, with no complications or inconveniences throughout their journey. Choose us for reliable and officially sanctioned transportation, guaranteeing peace of mind from the moment you land at Cancun Airport.</p>
+                <p>As the authorized transportation company at Punta Cana Airport, we possess all the necessary permits to operate seamlessly across every hotel, destination, and tourist site in Punta Cana and the Punta Cana. This ensures a hassle-free and smooth experience for our customers, with no complications or inconveniences throughout their journey. Choose us for reliable and officially sanctioned transportation, guaranteeing peace of mind from the moment you land at Punta Cana Airport.</p>
             </div>
 
         </div>
@@ -137,13 +137,13 @@
     <div class="container gray-container-information">
         <picture>
             <source srcset="/assets/img/home/taxirivi-cliente.webp" type="image/webp">
-            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Cancun Airport Taxi Service" title="Reliable Cancun Airport Taxi Service" loading="lazy" width="352" height="258">
+            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Punta Cana Airport Taxi Service" title="Reliable Punta Cana Airport Taxi Service" loading="lazy" width="352" height="258">
         </picture>
         <div>
-            <h2>Transportation service from Cancun Airport to Playa del Carmen with Caribbean Taxi, offering the best customer service!</h2>
-            <p>Caribbean Taxi distinguishes itself by delivering a comprehensive and inviting transfer service designed to surpass your expectations. Our commitment revolves around providing a travel experience that not only emphasizes efficiency and safety but also injects a touch of warmth and personalization for each of our esteemed clients.</p>
-            <p>Easily recognizable in our distinctive orange uniforms, you'll spot us at Cancun Airport, ensuring your arrival is both inviting and stress-free. At Caribbean Taxi, our dedicated team ensures that your journey from the airport to Playa del Carmen is seamless and enjoyable.</p>
-            <p>Whether you're embarking on a vacation or a business trip, place your trust in Caribbean Taxi for a transfer service that prioritizes your comfort and satisfaction. Experience the uniqueness of traveling with us, where complete and friendly service is not merely a commitment but a genuine promise. We eagerly look forward to welcoming you at the airport, prepared to transport you to your Playa del Carmen destination with a heartfelt smile and the utmost professionalism!</p>
+            <h2>Transportation service from Punta Cana Airport to Playa del Carmen with Punta Cana Airport Transfers, offering the best customer service!</h2>
+            <p>Punta Cana Airport Transfers distinguishes itself by delivering a comprehensive and inviting transfer service designed to surpass your expectations. Our commitment revolves around providing a travel experience that not only emphasizes efficiency and safety but also injects a touch of warmth and personalization for each of our esteemed clients.</p>
+            <p>Easily recognizable in our distinctive orange uniforms, you'll spot us at Punta Cana Airport, ensuring your arrival is both inviting and stress-free. At Punta Cana Airport Transfers, our dedicated team ensures that your journey from the airport to Playa del Carmen is seamless and enjoyable.</p>
+            <p>Whether you're embarking on a vacation or a business trip, place your trust in Punta Cana Airport Transfers for a transfer service that prioritizes your comfort and satisfaction. Experience the uniqueness of traveling with us, where complete and friendly service is not merely a commitment but a genuine promise. We eagerly look forward to welcoming you at the airport, prepared to transport you to your Playa del Carmen destination with a heartfelt smile and the utmost professionalism!</p>
             <a href="#" class="btn" title="BOOK NOW">BOOK NOW</a>
         </div>
     </div>
@@ -254,175 +254,175 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>Cancun Downtown</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,404 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td><strong>Punta Cana Downtown</strong></td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,404 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 USD</td>
                     </tr>
                     <tr>
-                        <td><strong>Cancun Hotel Zone</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,079 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td><strong>Punta Cana Hotel Zone</strong></td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,079 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Morelos</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$990 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,880 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,080 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,060 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,880 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,660 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$990 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,880 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,080 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,060 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,880 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,660 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Playa Mujeres</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,100 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,100 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Juárez</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$850 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,600 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,800 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,500 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,600 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$850 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,600 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,800 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,500 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,600 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Playa del Carmen</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,500 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,900 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,100 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,900 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,700 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,500 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,900 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,100 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,900 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,700 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Costa Mujeres</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,718 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,500 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,718 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,500 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Cozumel</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,404 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,718 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,900 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$5,700 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,718 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,400 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,404 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,718 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,900 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$5,700 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,718 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,400 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Aventuras</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,600 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,300 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,500 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,100 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,600 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,300 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,500 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,100 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Akumal</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,800 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,500 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,700 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$7,300 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,500 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,800 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,500 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,700 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$7,300 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,500 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Mahahual</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,600 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$11,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,404 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,500 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,100 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,600 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$11,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,404 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,500 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,100 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Holbox</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,200 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$10,300 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$10,620 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$20,900 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$10,300 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$20,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,200 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$10,300 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$10,620 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$20,900 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$10,300 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$20,500 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Valladolid</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$7,800 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$15,500 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$15,700 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$31,404 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$15,500 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$7,800 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$15,500 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$15,700 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$31,404 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$15,500 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Merida</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$9,800 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$17,500 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$17,700 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$32,718 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$17,500 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$9,800 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$17,500 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$17,700 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$32,718 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$17,500 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Bacalar</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,100 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,100 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,404 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,100 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,100 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,404 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,500 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Coba</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Hotel Zone</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Arco</strong></td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
-                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
-                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
-                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 USD</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 USD</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 USD</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 USD</td>
                     </tr>
                 </tbody>
             </table>            
@@ -450,7 +450,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/1.webp" type="image/webp">
-                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Caribbean Taxi" title="Celia G." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Celia G." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Celia G.</p>
@@ -459,7 +459,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Embarked on an exceptional transfer journey with Caribbean Taxi in Playa del Carmen! The distinctive orange booth at the airport was a beacon of relief, ensuring a seamless experience. The driver, dressed in the unmistakable orange uniform, greeted us warmly. The ride was not only comfortable but also came with a fair fare, making Caribbean Taxi the ultimate choice for reaching any destination in Playa del Carmen.</p>
+                            <p>Embarked on an exceptional transfer journey with Punta Cana Airport Transfers in Playa del Carmen! The distinctive orange booth at the airport was a beacon of relief, ensuring a seamless experience. The driver, dressed in the unmistakable orange uniform, greeted us warmly. The ride was not only comfortable but also came with a fair fare, making Punta Cana Airport Transfers the ultimate choice for reaching any destination in Playa del Carmen.</p>
                             <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
                             <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
@@ -469,7 +469,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/2.webp" type="image/webp">
-                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Caribbean Taxi" title="Karla T." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Karla T." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Karla T.</p>
@@ -478,7 +478,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Flawless transfer service awaited me with Caribbean Taxi in Playa del Carmen! The effortless discovery of the orange uniform affirmed my decision's correctness. Punctuality surpassed expectations, the vehicle gleamed in top-notch condition, and the value for money was unparalleled. Caribbean Taxi not only excels in service but also in the simplicity of locating them in Playa del Carmen, setting them apart.</p>
+                            <p>Flawless transfer service awaited me with Punta Cana Airport Transfers in Playa del Carmen! The effortless discovery of the orange uniform affirmed my decision's correctness. Punctuality surpassed expectations, the vehicle gleamed in top-notch condition, and the value for money was unparalleled. Punta Cana Airport Transfers not only excels in service but also in the simplicity of locating them in Playa del Carmen, setting them apart.</p>
                             <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
                             <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
@@ -488,7 +488,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/3.webp" type="image/webp">
-                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Caribbean Taxi" title="Ferenc S." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Ferenc S." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Ferenc S.</p>
@@ -497,7 +497,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>My enthusiastic recommendation goes to Caribbean Taxi in Playa del Carmen. From touchdown, the distinctive orange booth stood out, making it effortlessly noticeable. The fare was reasonable, and the service showcased a commendable quality. Undoubtedly the premier choice, their presence in Playa del Carmen significantly streamlined the entire process.</p>
+                            <p>My enthusiastic recommendation goes to Punta Cana Airport Transfers in Playa del Carmen. From touchdown, the distinctive orange booth stood out, making it effortlessly noticeable. The fare was reasonable, and the service showcased a commendable quality. Undoubtedly the premier choice, their presence in Playa del Carmen significantly streamlined the entire process.</p>
                             <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
                             <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
@@ -507,7 +507,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/4.webp" type="image/webp">
-                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Caribbean Taxi" title="Chris M." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Chris M." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Chris M.</p>
@@ -516,7 +516,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Amidst the challenges, Caribbean Taxi in Playa del Carmen emerged as a relieving presence. Their easily recognizable booth and orange uniform, coupled with the friendly driver and fair fare, made the experience worthwhile. Highly endorsed for reaching any destination in Playa del Carmen, especially for those who appreciate the convenience of locating them effortlessly.</p>
+                            <p>Amidst the challenges, Punta Cana Airport Transfers in Playa del Carmen emerged as a relieving presence. Their easily recognizable booth and orange uniform, coupled with the friendly driver and fair fare, made the experience worthwhile. Highly endorsed for reaching any destination in Playa del Carmen, especially for those who appreciate the convenience of locating them effortlessly.</p>
                             <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
                             <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
@@ -529,15 +529,15 @@
 
     <div class="container how_to_information">
         <div class="top">
-            <h2>How to get from Cancun Airport to Playa del Carmen?</h2>
+            <h2>How to get from Punta Cana Airport to Playa del Carmen?</h2>
         </div>
         <div class="bottom">
             <div class="left">
-                <p>For travelers landing at Cancun Airport and destined for the coastal paradise of Playa del Carmen, seamless transportation options abound to ensure a comfortable and efficient journey. Situated approximately 68 kilometers apart, these two destinations are well-connected, offering various choices to suit diverse preferences and travel needs.</p>
-                <p>A favored option is the use of private transportation services, including taxis or transfer companies. At Cancun Airport, authorized taxi services with fixed rates to Playa del Carmen are readily available. Additionally, several transfer companies provide shared or private shuttle services, catering to groups of varying sizes and preferences.</p>
-                <p>Conveniently, bus services also link Cancun Airport with Playa del Carmen. These buses offer a cost-effective alternative and are ideal for those seeking a straightforward and budget-friendly solution.</p>
-                <p>Alternatively, for those desiring greater autonomy, renting a car at the airport is a viable choice. With well-maintained road networks, the drive from Cancun to Playa del Carmen is straightforward, allowing travelers to explore the region at their own pace.</p>
-                <p>Preplanning transportation is essential to ensure a hassle-free transfer. By doing so, travelers can select the option that best aligns with their needs, whether prioritizing comfort, affordability, or flexibility on the journey from Cancun to Playa del Carmen. With these accessible transportation choices, visitors can revel in a seamless transition from the vibrant atmosphere of Cancun to the relaxed beaches of Playa del Carmen.</p>
+                <p>For travelers landing at Punta Cana Airport and destined for the coastal paradise of Playa del Carmen, seamless transportation options abound to ensure a comfortable and efficient journey. Situated approximately 68 kilometers apart, these two destinations are well-connected, offering various choices to suit diverse preferences and travel needs.</p>
+                <p>A favored option is the use of private transportation services, including taxis or transfer companies. At Punta Cana Airport, authorized taxi services with fixed rates to Playa del Carmen are readily available. Additionally, several transfer companies provide shared or private shuttle services, catering to groups of varying sizes and preferences.</p>
+                <p>Conveniently, bus services also link Punta Cana Airport with Playa del Carmen. These buses offer a cost-effective alternative and are ideal for those seeking a straightforward and budget-friendly solution.</p>
+                <p>Alternatively, for those desiring greater autonomy, renting a car at the airport is a viable choice. With well-maintained road networks, the drive from Punta Cana to Playa del Carmen is straightforward, allowing travelers to explore the region at their own pace.</p>
+                <p>Preplanning transportation is essential to ensure a hassle-free transfer. By doing so, travelers can select the option that best aligns with their needs, whether prioritizing comfort, affordability, or flexibility on the journey from Punta Cana to Playa del Carmen. With these accessible transportation choices, visitors can revel in a seamless transition from the vibrant atmosphere of Punta Cana to the relaxed beaches of Playa del Carmen.</p>
             </div>
             <div class="right">
                 <picture>
@@ -551,55 +551,55 @@
     <div class="container destinations_information">
         <div class="top">
             <h2>Transportation service in playa del carmen</h2>
-            <p>When it comes to your transfer to Playa del Carmen, rely on Caribbean Taxi for a service that is both reliable and exceptional. Our specialization lies in offering the most comprehensive and trustworthy transportation service throughout the region. Whether you're arriving at the Airport or any destination within Playa del Carmen, our dedicated team is prepared to seamlessly transport you to your hotel or preferred location in the city. Choose Caribbean Taxi for a transfer experience that guarantees comfort and security, ensuring a smooth and delightful beginning to your stay in Playa del Carmen. Transform your arrival into a hassle-free experience with Caribbean Taxi!.</p>
+            <p>When it comes to your transfer to Playa del Carmen, rely on Punta Cana Airport Transfers for a service that is both reliable and exceptional. Our specialization lies in offering the most comprehensive and trustworthy transportation service throughout the region. Whether you're arriving at the Airport or any destination within Playa del Carmen, our dedicated team is prepared to seamlessly transport you to your hotel or preferred location in the city. Choose Punta Cana Airport Transfers for a transfer experience that guarantees comfort and security, ensuring a smooth and delightful beginning to your stay in Playa del Carmen. Transform your arrival into a hassle-free experience with Punta Cana Airport Transfers!.</p>
         </div>
         <div class="bottom">
             <div>
-                <a href="/cancun-to-tulum-shuttle" title="Tulum Transportation">
+                <a href="/punta-cana-to-tulum-shuttle" title="Tulum Transportation">
                     <picture>
                         <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/tulum-destino.jpg" alt="Tulum Transportation" title="Tulum Transportation" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-tulum-shuttle" title="Tulum Transportation">Tulum Transportation</a></h3>
-                    <p>Enjoy a safe, fast and reliable Tulum Transportation service. Estimated transfer time from Cancun is 1 hour and 40 minutes.</p>
+                    <h3><a href="/punta-cana-to-tulum-shuttle" title="Tulum Transportation">Tulum Transportation</a></h3>
+                    <p>Enjoy a safe, fast and reliable Tulum Transportation service. Estimated transfer time from Punta Cana is 1 hour and 40 minutes.</p>
                 </div>
             </div>
             <div>
-                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">
+                <a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">
                     <picture>
                         <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Transportation to Playa del Carmen" title="Transportation to Playa del Carmen" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">Transportation to Playa del Carmen</a></h3>
-                    <p>Enjoy a safe, fast and reliable transfer service to Playa del Carmen. Estimated transfer time from Cancun is 55 minutes.</p>
+                    <h3><a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">Transportation to Playa del Carmen</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Playa del Carmen. Estimated transfer time from Punta Cana is 55 minutes.</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-airport-transportation" title="Cancun Airport Taxi">
+                <a href="/punta-cana-airport-transportation" title="Punta Cana Airport Taxi">
                     <picture>
-                        <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
-                        <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Cancun Airport Taxi" title="Cancun Airport Taxi" loading="lazy" width="373" height="260">
+                        <source srcset="/assets/img/destinations/punta-cana-zona-hotelera.webp" type="image/webp">
+                        <img src="/assets/img/destinations/punta-cana-zona-hotelera.jpg" alt="Punta Cana Airport Taxi" title="Punta Cana Airport Taxi" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-airport-transportation" title="Cancun Airport Taxi">Cancun Airport Taxi</a></h3>
+                    <h3><a href="/punta-cana-airport-transportation" title="Punta Cana Airport Taxi">Punta Cana Airport Taxi</a></h3>
                     <p>Enjoy a safe, fast and reliable transfer service to the Hotel Zone. Estimated transfer time from the airport to the Hotel Zone is 30 minutes.</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-to-akumal-shuttle" title="Akumal Shuttle">
+                <a href="/punta-cana-to-akumal-shuttle" title="Akumal Shuttle">
                     <picture>
                         <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
                         <img src="/assets/img/destinations/destino-akumal.jpg" alt="Akumal Shuttle" title="Akumal Shuttle" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-akumal-shuttle" title="Akumal Shuttle">Akumal Shuttle</a></h3>
-                    <p>Enjoy a safe, fast and reliable transfer service to Akumal. Estimated transfer time from Cancun to Akumal is 1 hour and 40 minutes.</p>
+                    <h3><a href="/punta-cana-to-akumal-shuttle" title="Akumal Shuttle">Akumal Shuttle</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Akumal. Estimated transfer time from Punta Cana to Akumal is 1 hour and 40 minutes.</p>
                 </div>
             </div>
             <div>
@@ -609,7 +609,7 @@
                 </picture>
                 <div>
                     <h3>Transportation to Puerto Morelos</h3>
-                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Morelos. Estimated transfer time from Cancun is 30 minutes.</p>
+                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Morelos. Estimated transfer time from Punta Cana is 30 minutes.</p>
                 </div>
             </div>
             <div>
@@ -619,56 +619,56 @@
                 </picture>
                 <div>
                     <h3>Transportation to Puerto Aventuras</h3>
-                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Aventuras. Estimated transfer time from Cancun is 1 hour and 20 minutes.</p>
+                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Aventuras. Estimated transfer time from Punta Cana is 1 hour and 20 minutes.</p>
                 </div>
             </div>
         </div><div class="bottom">
             <div>
-                <a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">
+                <a href="/punta-cana-to-tulum-shuttle" title="Traslado a Tulum">
                     <picture>
                         <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/tulum-destino.jpg" alt="Traslado a Tulum" title="Traslado a Tulum" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 40 minutos</p>
+                    <h3><a href="/punta-cana-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
+                <a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
                     <picture>
                         <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Traslado a Playa del Carmen" title="Traslado a Playa del Carmen" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 55 minutos</p>
+                    <h3><a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 55 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">
+                <a href="/punta-cana-airport-transportation" title="Taxi en el Aeropuerto de Punta Cana">
                     <picture>
-                        <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
-                        <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Cancún" title="Taxi en el Aeropuerto de Cancún" loading="lazy" width="373" height="260">
+                        <source srcset="/assets/img/destinations/punta-cana-zona-hotelera.webp" type="image/webp">
+                        <img src="/assets/img/destinations/punta-cana-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Punta Cana" title="Taxi en el Aeropuerto de Punta Cana" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
+                    <h3><a href="/punta-cana-airport-transportation" title="Taxi en el Aeropuerto de Punta Cana">Taxi en el Aeropuerto de Punta Cana</a></h3>
                     <p>Disfruta de un servicio de Traslado a la Zona Hotelera seguro, rápido y confiable. El tiempo estimado de traslado desde el Aeropuerto a la Zona Hotelera es de 30 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">
+                <a href="/punta-cana-to-akumal-shuttle" title="Traslado a Akumal">
                     <picture>
                         <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
                         <img src="/assets/img/destinations/destino-akumal.jpg" alt="Traslado a Akumal" title="Traslado a Akumal" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún a Akumal es de 1 hora y 40 minutos</p>
+                    <h3><a href="/punta-cana-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana a Akumal es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
@@ -678,7 +678,7 @@
                 </picture>
                 <div>
                     <h3>Traslado a Puerto Morelos</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Morelos seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 30 minutos</p>
+                    <p>Disfruta de un servicio de Traslado a Puerto Morelos seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 30 minutos</p>
                 </div>
             </div>
             <div>
@@ -688,7 +688,7 @@
                 </picture>
                 <div>
                     <h3>Traslado a Puerto Aventuras</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Aventuras seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 20 minutos</p>
+                    <p>Disfruta de un servicio de Traslado a Puerto Aventuras seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 1 hora y 20 minutos</p>
                 </div>
             </div>
         </div>
@@ -697,15 +697,15 @@
     <div class="container additional_information">
         <div class="bottom">
             <div class="left">                
-                <h2>Your Trusted Companion in Playa del Carmen: Caribbean Taxi</h2>
-                <p>Experience a stress-free sojourn in Playa del Carmen with Caribbean Taxi, your dedicated ally in exploration. Tailored to cater to the needs of tourists visiting this picturesque locale, we prioritize convenience and reliability throughout your transportation journey.</p>
-                <p>Caribbean Taxi goes beyond being a mere transportation service; we are your companion in navigating the charming streets and scenic spots of Playa del Carmen. Recognizable in our vibrant orange uniforms, our team is poised to assist, guide, and ensure your time in Playa del Carmen is marked by positive and memorable moments.</p>
-                <p>Whether you're heading to your hotel, exploring cultural gems, or embarking on exciting adventures, Caribbean Taxi is your steadfast ally. From the moment you arrive at your destination, our commitment to excellence, safety, and customer satisfaction guarantees a seamless and enjoyable travel experience. Trust Caribbean Taxi as your travel companion in Playa del Carmen, turning your visit into a memorable journey filled with ease and exploration.</p>
+                <h2>Your Trusted Companion in Playa del Carmen: Punta Cana Airport Transfers</h2>
+                <p>Experience a stress-free sojourn in Playa del Carmen with Punta Cana Airport Transfers, your dedicated ally in exploration. Tailored to cater to the needs of tourists visiting this picturesque locale, we prioritize convenience and reliability throughout your transportation journey.</p>
+                <p>Punta Cana Airport Transfers goes beyond being a mere transportation service; we are your companion in navigating the charming streets and scenic spots of Playa del Carmen. Recognizable in our vibrant orange uniforms, our team is poised to assist, guide, and ensure your time in Playa del Carmen is marked by positive and memorable moments.</p>
+                <p>Whether you're heading to your hotel, exploring cultural gems, or embarking on exciting adventures, Punta Cana Airport Transfers is your steadfast ally. From the moment you arrive at your destination, our commitment to excellence, safety, and customer satisfaction guarantees a seamless and enjoyable travel experience. Trust Punta Cana Airport Transfers as your travel companion in Playa del Carmen, turning your visit into a memorable journey filled with ease and exploration.</p>
             </div>
             <div class="right">
                 <picture>
                     <source srcset="/assets/img/home/client.webp" type="image/webp">
-                    <img src="/assets/img/home/client.png" alt="Your Trusted Companion in Playa del Carmen: Caribbean Taxi" title="Your Trusted Companion in Playa del Carmen: Caribbean Taxi" loading="lazy" width="390" height="481">
+                    <img src="/assets/img/home/client.png" alt="Your Trusted Companion in Playa del Carmen: Punta Cana Airport Transfers" title="Your Trusted Companion in Playa del Carmen: Punta Cana Airport Transfers" loading="lazy" width="390" height="481">
                 </picture>
             </div>
         </div>
@@ -713,26 +713,26 @@
 
     <div class="container faqs_section">
         <div class="top">
-            <h2>Frequently Asked Questions about Caribbean Taxi and Transfers in Playa del Carmen</h2>
+            <h2>Frequently Asked Questions about Punta Cana Airport Transfers and Transfers in Playa del Carmen</h2>
             <p>Solve your doubts with our frequently asked questions</p>
         </div>
         <div class="bottom">
             <div>
-                <h3>What is Caribbean Taxi's specialization in Playa del Carmen?</h3>
+                <h3>What is Punta Cana Airport Transfers's specialization in Playa del Carmen?</h3>
                 <div>
-                    <p>Caribbean Taxi excels in providing reliable and exceptional transfer services in Playa del Carmen, ensuring comfort and safety for visitors.</p>
+                    <p>Punta Cana Airport Transfers excels in providing reliable and exceptional transfer services in Playa del Carmen, ensuring comfort and safety for visitors.</p>
                 </div>
             </div>
             <div>
-                <h3>How can I book a service with Caribbean Taxi in Playa del Carmen?</h3>
+                <h3>How can I book a service with Punta Cana Airport Transfers in Playa del Carmen?</h3>
                 <div>
                     <p>Booking is quick and easy. You can reserve your service online through our website or contact us directly.</p>
                 </div>
             </div>
             <div>
-                <h3>Which major destinations does Caribbean Taxi cover in Playa del Carmen?</h3>
+                <h3>Which major destinations does Punta Cana Airport Transfers cover in Playa del Carmen?</h3>
                 <div>
-                    <p>Caribbean Taxi offers transfer services to hotels, beaches, and prominent tourist spots in Playa del Carmen and its surroundings.</p>
+                    <p>Punta Cana Airport Transfers offers transfer services to hotels, beaches, and prominent tourist spots in Playa del Carmen and its surroundings.</p>
                 </div>
             </div>
             <div>
@@ -742,25 +742,25 @@
                 </div>
             </div>
             <div>
-                <h3>Does Caribbean Taxi provide transfer services from Cancun Airport to Playa del Carmen?</h3>
+                <h3>Does Punta Cana Airport Transfers provide transfer services from Punta Cana Airport to Playa del Carmen?</h3>
                 <div>
-                    <p>Yes, Caribbean Taxi offers transfer services from Cancun Airport to various destinations in Playa del Carmen.</p>
+                    <p>Yes, Punta Cana Airport Transfers offers transfer services from Punta Cana Airport to various destinations in Playa del Carmen.</p>
                 </div>
             </div>
             <div>
-                <h3>Does Caribbean Taxi's service include flight monitoring to accommodate changes in the itinerary?</h3>
+                <h3>Does Punta Cana Airport Transfers's service include flight monitoring to accommodate changes in the itinerary?</h3>
                 <div>
                     <p>Absolutely, we monitor flights to ensure we are punctual, even in the case of schedule changes.</p>
                 </div>
             </div>
             <div>
-                <h3>What is the cancellation policy for Caribbean Taxi in Playa del Carmen?</h3>
+                <h3>What is the cancellation policy for Punta Cana Airport Transfers in Playa del Carmen?</h3>
                 <div>
                     <p>The cancellation policy varies depending on the type of reservation. We recommend reviewing the conditions at the time of booking.</p>
                 </div>
             </div>
             <div>
-                <h3>Does Caribbean Taxi cater to large groups for transfers in Playa del Carmen?</h3>
+                <h3>Does Punta Cana Airport Transfers cater to large groups for transfers in Playa del Carmen?</h3>
                 <div>
                     <p>Yes, we can accommodate large groups. Please get in touch with us for detailed information.</p>
                 </div>
@@ -772,7 +772,7 @@
                 </div>
             </div>
             <div>
-                <h3>Does Caribbean Taxi offer additional tourist services in Playa del Carmen?</h3>
+                <h3>Does Punta Cana Airport Transfers offer additional tourist services in Playa del Carmen?</h3>
                 <div>
                     <p>In addition to transfers, we provide additional tourist services such as personalized tours and suggestions for exploring the best of Playa del Carmen and its surroundings.</p>
                 </div>

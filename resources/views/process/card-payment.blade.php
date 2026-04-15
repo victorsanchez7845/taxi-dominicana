@@ -4,7 +4,7 @@
 
     $total = $rez['sales']['total'];
     if( $rez['config']['currency'] == "USD"):
-        $total = $total * $rez['config']['payment_exchange_rate']['USD_MXN'];
+        $total = $total * $rez['config']['payment_exchange_rate']['USD_USD'];
     endif;
 
 @endphp
@@ -14,7 +14,7 @@
     <link href="{{ mix('/assets/css/process/card-payment.min.css') }}" rel="preload" as="style" >
     <link href="{{ mix('/assets/css/process/card-payment.min.css') }}" rel="stylesheet">
         
-    <script src="https://www.paypal.com/sdk/js?client-id={{ $credentials['client_id'] }}&currency=MXN&locale=en_US&components=buttons" data-sdk-integration-source="developer-studio"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id={{ $credentials['client_id'] }}&currency=USD&locale=en_US&components=buttons" data-sdk-integration-source="developer-studio"></script>
 @endpush
 @push("push-bottom")
     <x-analytics/>
@@ -133,7 +133,7 @@
     
             <div class="resume">
                 <p>Total</p>
-                <p>${{ $total }} MXN</p>
+                <p>${{ $total }} USD</p>
             </div>
     
             <div class="items">

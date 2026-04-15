@@ -14,12 +14,12 @@
             "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
             "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
            ],
-          "description": "Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.",
+          "description": "Servicio de Taxi desde y hacia el Aeropuerto de Punta Cana, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Punta Cana.",
           "sku": "019005",
           "mpn": "029005",
           "brand": {
             "@type": "Brand",
-            "name": "Taxi Riviera Maya"
+            "name": "Punta Cana Airport Transfers"
           },
           "review": {
             "@type": "Review",
@@ -40,8 +40,8 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://caribbean-taxi.com/traslado-cancun-a-puerto-morelos",
-            "priceCurrency": "MXN",
+            "url": "https://caribbean-taxi.com/traslado-punta cana-a-puerto-morelos",
+            "priceCurrency": "USD",
             "price": 954,
             "priceValidUntil": "2024-12-31",
             "itemCondition": "https://schema.org/UsedCondition",
@@ -58,17 +58,17 @@
                 "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
                 "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
             ],
-            "name": "Taxi Riviera Maya",
-            "hasMap": "https://www.google.com/maps/place/Taxi+Riviera+Maya/@21.0723366,-86.8489683,17z/data=!4m6!3m5!1s0x8f4c2be10a05f649:0xc59c79538ab20351!8m2!3d21.0723316!4d-86.8463934!16s%2Fg%2F11sbd81d37?entry=tts&shorturl=1",
+            "name": "Punta Cana Airport Transfers",
+            "hasMap": "https://www.google.com/maps/place/Taxi+Punta Cana+Maya/@21.0723366,-86.8489683,17z/data=!4m6!3m5!1s0x8f4c2be10a05f649:0xc59c79538ab20351!8m2!3d21.0723316!4d-86.8463934!16s%2Fg%2F11sbd81d37?entry=tts&shorturl=1",
             "sameAs": [
-                "https://www.facebook.com/taxirivieramayaMX",
-                "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Riviera_Maya-Cancun_Yucatan_Peninsula.html"
+                "#",
+                "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Punta Cana_Maya-La_Altagracia_Dominican_Republic.html"
             ],
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "Campestre Lol-be Alfredo V. Bonfil",
-              "addressLocality": "Cancun",
-              "addressRegion": "Quintana Roo",
+              "addressLocality": "Punta Cana",
+              "addressRegion": "Dominican Republic",
               "postalCode": "77560",
               "addressCountry": "MX"
             },
@@ -89,10 +89,10 @@
               "latitude": 21.072476745380349,
               "longitude": -86.846425590797892
             },
-            "url": "https://caribbean-taxi.com/traslado-cancun-a-puerto-morelos",
+            "url": "https://caribbean-taxi.com/traslado-punta cana-a-puerto-morelos",
             "telephone": "+529982942389",
             "email": "bookings@caribbean-taxi.com",            
-            "priceRange": "990 MXN - 1980 MXN",
+            "priceRange": "990 USD - 1980 USD",
             "openingHoursSpecification": [
                 {
                 "@type": "OpeningHoursSpecification",
@@ -131,7 +131,7 @@
     <div class="heading">
         <div class="container">
             <div class="top">
-                <h1>Traslados de Cancún a Puerto Morelos</h1>
+                <h1>Traslados de Punta Cana a Puerto Morelos</h1>
                 <p>Encuentra las tarifas más bajas en traslados a Puerto Morelos.</p>
             </div>
             <div class="bottom">                
@@ -142,15 +142,15 @@
 
     <div class="container banner_container">
         <div class="left">
-            <h2>Traslado de Cancún a Puerto Morelos por Taxi Riviera Maya</h2>
-            <p>Taxi Riviera Maya se distingue en Puerto Morelos por ofrecer un servicio de traslados excepcional, destacando nuestra atenci&oacute;n al cliente amable y respetuosa. Nuestra flota de veh&iacute;culos en constante mantenimiento y conductores profesionales garantiza traslados seguros y c&oacute;modos desde el aeropuerto hasta hoteles o destinos en la zona.</p>
+            <h2>Traslado de Punta Cana a Puerto Morelos por Punta Cana Airport Transfers</h2>
+            <p>Punta Cana Airport Transfers se distingue en Puerto Morelos por ofrecer un servicio de traslados excepcional, destacando nuestra atenci&oacute;n al cliente amable y respetuosa. Nuestra flota de veh&iacute;culos en constante mantenimiento y conductores profesionales garantiza traslados seguros y c&oacute;modos desde el aeropuerto hasta hoteles o destinos en la zona.</p>
             <p>La puntualidad y eficiencia son nuestra prioridad, y nos adaptamos a las necesidades individuales de los clientes, ya sea para traslados privados, grupales o corporativos. Facilitamos la reserva en l&iacute;nea para una planificaci&oacute;n sin complicaciones y estamos comprometidos a superar las expectativas en cada viaje.</p>
-            <p>En Taxi Riviera Maya, creemos que la atenci&oacute;n al cliente es clave, y nuestro personal est&aacute; disponible para atender cualquier consulta o solicitud, asegurando una experiencia integral. Elija nuestra empresa para disfrutar de un servicio de traslados de calidad, donde la diferencia radica en nuestra atenci&oacute;n al cliente amable y respetuosa.</p>
+            <p>En Punta Cana Airport Transfers, creemos que la atenci&oacute;n al cliente es clave, y nuestro personal est&aacute; disponible para atender cualquier consulta o solicitud, asegurando una experiencia integral. Elija nuestra empresa para disfrutar de un servicio de traslados de calidad, donde la diferencia radica en nuestra atenci&oacute;n al cliente amable y respetuosa.</p>
         </div>
         <div class="right">
             <picture>
-                <source srcset="/assets/img/home/taxi-cancun-aeropuerto-banner.webp" type="image/webp">
-                <img src="/assets/img/home/taxi-cancun-aeropuerto-banner.jpg" alt="La mejor empresa de taxi en la riviera maya" title="La mejor empresa de taxi en la riviera maya" loading="lazy" width="573" height="374">
+                <source srcset="/assets/img/home/taxi-punta-cana-aeropuerto-banner.webp" type="image/webp">
+                <img src="/assets/img/home/taxi-punta-cana-aeropuerto-banner.jpg" alt="La mejor empresa de taxi en la punta cana" title="La mejor empresa de taxi en la punta cana" loading="lazy" width="573" height="374">
             </picture>
         </div>
     </div>
@@ -169,7 +169,7 @@
                         <h2>TRASLADO A HOTELES EN PUERTO MORELOS</h2>
                     </div>
                 </div>
-                <p>Traslado en Puerto Morelos a hoteles , ofrecemos servicios de traslado de tu hotel a cualquier hotel, airbnb, resort o parque temático en Puerto Morelos y la Riviera Maya.</p>
+                <p>Traslado en Puerto Morelos a hoteles , ofrecemos servicios de traslado de tu hotel a cualquier hotel, airbnb, resort o parque temático en Puerto Morelos y la Punta Cana.</p>
             </div>
 
             <div class="item van">
@@ -200,21 +200,21 @@
     <div class="container gray-container-information">
         <picture>
             <source srcset="/assets/img/home/taxirivi-cliente.webp" type="image/webp">
-            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Cancun Airport Taxi Service" title="Reliable Cancun Airport Taxi Service" loading="lazy" width="352" height="258">
+            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Punta Cana Airport Taxi Service" title="Reliable Punta Cana Airport Taxi Service" loading="lazy" width="352" height="258">
         </picture>
         <div>
             <h2>¡El transporte a Puerto Morelos con el mejor trato al cliente!</h2>
-            <p>En Taxi Riviera Maya, la atenci&oacute;n al cliente es nuestra prioridad en Puerto Morelos. Nos dedicamos a ofrecer experiencias de traslado excepcionales, donde cada interacci&oacute;n refleja nuestro compromiso con tu satisfacci&oacute;n.</p>
+            <p>En Punta Cana Airport Transfers, la atenci&oacute;n al cliente es nuestra prioridad en Puerto Morelos. Nos dedicamos a ofrecer experiencias de traslado excepcionales, donde cada interacci&oacute;n refleja nuestro compromiso con tu satisfacci&oacute;n.</p>
             <p>Desde el primer contacto hasta llegar a tu destino, nuestro equipo de atenci&oacute;n al cliente est&aacute; comprometido con hacer tu viaje c&oacute;modo y sin preocupaciones. Nuestros choferes, m&aacute;s que conductores, son embajadores de servicio, listos para recibirte con una sonrisa y garantizar tu comodidad.</p>
             <p>Nos adaptamos a tus necesidades, ya sea un traslado privado, grupal o corporativo. Tu satisfacci&oacute;n es nuestra m&aacute;xima prioridad, y trabajamos para personalizar cada servicio seg&uacute;n tus preferencias.</p>
-            <p>En Taxi Riviera Maya, no solo te transportamos; te llevamos con atenci&oacute;n, cuidado y compromiso. Buscamos no solo ser un medio de transporte, sino crear recuerdos positivos. Elige Taxi Riviera Maya para un servicio de traslado donde la atenci&oacute;n al cliente es la clave de nuestra excelencia.</p>
+            <p>En Punta Cana Airport Transfers, no solo te transportamos; te llevamos con atenci&oacute;n, cuidado y compromiso. Buscamos no solo ser un medio de transporte, sino crear recuerdos positivos. Elige Punta Cana Airport Transfers para un servicio de traslado donde la atenci&oacute;n al cliente es la clave de nuestra excelencia.</p>
             <a href="#" class="btn" title="Reserva Ahora">RESERVA AHORA</a>
         </div>
     </div>
 
     <div class="container our_services">
         <div class="top">
-            <h2>Servicios de Taxi en el Aeropuerto de Cancún</h2>
+            <h2>Servicios de Taxi en el Aeropuerto de Punta Cana</h2>
         </div>
         <div class="bottom">
 
@@ -222,14 +222,14 @@
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/van.webp" type="image/webp">
-                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Taxi Aeropuerto Cancún Privado" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Taxi Aeropuerto Punta Cana Privado" loading="lazy" width="343" height="196">
                     </picture>
                 </div>
-                <h3>Taxi Aeropuerto Cancún Privado</h3>
+                <h3>Taxi Aeropuerto Punta Cana Privado</h3>
                 <div>
-                    <p>Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.</p>
+                    <p>Servicio de Taxi desde y hacia el Aeropuerto de Punta Cana, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Punta Cana.</p>
                 </div>
-                <p>Desde <span>$539 MXN</span></p>
+                <p>Desde <span>$539 USD</span></p>
             </div>
             <div>
                 <div class="image">
@@ -242,7 +242,7 @@
                 <div>
                     <p>Este transporte está disponible para todos nuestros destinos, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. (Los niños/infantes son considerados como pasajeros).</p>
                 </div>
-                <p>Desde <span>$1,404 MXN</span></p>
+                <p>Desde <span>$1,404 USD</span></p>
             </div>
             <div>
                 <div class="image">
@@ -255,7 +255,7 @@
                 <div>
                     <p>Este transporte está disponible para todos nuestros destinos, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. (Los niños/infantes son considerados como pasajeros).</p>
                 </div>
-                <p>Desde <span>$630 MXN</span></p>
+                <p>Desde <span>$630 USD</span></p>
             </div>
 
         </div>
@@ -318,175 +318,175 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>Cancun Downtown</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td><strong>Punta Cana Downtown</strong></td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 USD</td>
                     </tr>
                     <tr>
-                        <td><strong>Cancun Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,079 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td><strong>Punta Cana Hotel Zone</strong></td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,079 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Morelos</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$990 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,880 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,080 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,060 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,880 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,660 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$990 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,880 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,080 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,060 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,880 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,660 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Playa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Juárez</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$850 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,600 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$850 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,600 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,800 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,600 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Playa del Carmen</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,500 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,700 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,500 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,900 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,900 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,700 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Costa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,718 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Cozumel</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$5,700 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,400 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,404 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,718 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,900 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$5,700 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,400 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Aventuras</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,600 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,300 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Akumal</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$7,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,900 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,800 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,500 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,700 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$7,300 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Mahahual</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,100 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,600 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$11,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,404 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,100 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Holbox</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,200 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$10,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$10,620 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$20,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$10,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$20,500 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,200 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$10,300 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$10,620 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$20,900 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$10,300 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$20,500 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Valladolid</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$7,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$15,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$15,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$31,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$15,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$7,800 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$15,500 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$15,700 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$31,404 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$15,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Merida</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$9,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$17,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$17,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$32,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$17,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$9,800 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$17,500 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$17,700 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$32,718 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$17,500 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Bacalar</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,500 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,100 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,100 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,404 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,500 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Coba</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Arco</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 USD</td>
+                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 USD</td>
+                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 USD</td>
+                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 USD</td>
                     </tr>
                 </tbody>
             </table>            
@@ -514,7 +514,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/4.webp" type="image/webp">
-                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Taxi Riviera Maya" title="Ana M." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Ana M." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Ana M.</p>
@@ -523,7 +523,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>¡Experiencia de traslado excepcional en Puerto Morelos! Taxi Riviera Maya superó mis expectativas. Conductor amigable, vehículo cómodo y tarifa justa. La elección perfecta para llegar a cualquier destino en Puerto Morelos.</p>
+                            <p>¡Experiencia de traslado excepcional en Puerto Morelos! Punta Cana Airport Transfers superó mis expectativas. Conductor amigable, vehículo cómodo y tarifa justa. La elección perfecta para llegar a cualquier destino en Puerto Morelos.</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -533,7 +533,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/1.webp" type="image/webp">
-                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Taxi Riviera Maya" title="Juan P." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Juan P." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Juan P.</p>
@@ -542,7 +542,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>¡Impecable servicio de traslado en Puerto Morelos! Puntualidad, vehículo en excelentes condiciones y una relación calidad-precio inmejorable. Taxi Riviera Maya se destaca en el trayecto en Puerto Morelos.</p>
+                            <p>¡Impecable servicio de traslado en Puerto Morelos! Puntualidad, vehículo en excelentes condiciones y una relación calidad-precio inmejorable. Punta Cana Airport Transfers se destaca en el trayecto en Puerto Morelos.</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -552,7 +552,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/3.webp" type="image/webp">
-                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Taxi Riviera Maya" title="Liliana R." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Liliana R." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Liliana R.</p>
@@ -561,7 +561,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Recomiendo ampliamente Taxi Riviera Maya en Puerto Morelos. Servicio impecable desde el aeropuerto de Cancún. Tarifa accesible y atención de calidad. ¡La mejor opción en diciembre en Puerto Morelos!</p>
+                            <p>Recomiendo ampliamente Punta Cana Airport Transfers en Puerto Morelos. Servicio impecable desde el aeropuerto de Punta Cana. Tarifa accesible y atención de calidad. ¡La mejor opción en diciembre en Puerto Morelos!</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -571,7 +571,7 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/2.webp" type="image/webp">
-                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Taxi Riviera Maya" title="Fernando L." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Punta Cana Airport Transfers" title="Fernando L." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
                                 <p>Fernando L.</p>
@@ -580,7 +580,7 @@
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>A pesar de los desafíos en el aeropuerto, Taxi Riviera Maya fue un alivio en Puerto Morelos. Conductor amable, tarifa justa y servicio excepcional. Totalmente recomendado para llegar a cualquier destino en Puerto Morelos.</p>
+                            <p>A pesar de los desafíos en el aeropuerto, Punta Cana Airport Transfers fue un alivio en Puerto Morelos. Conductor amable, tarifa justa y servicio excepcional. Totalmente recomendado para llegar a cualquier destino en Puerto Morelos.</p>
                             <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
                             <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
@@ -593,20 +593,20 @@
 
     <div class="container how_to_information">
         <div class="top">
-            <h2>¿Cómo llegar de Cancún a Puerto Morelos?</h2>
+            <h2>¿Cómo llegar de Punta Cana a Puerto Morelos?</h2>
         </div>
         <div class="bottom">
             <div class="left">
-                <p>Para aquellos que buscan la ruta m&aacute;s conveniente y c&oacute;moda desde Canc&uacute;n a Puerto Morelos, el servicio de traslado de Taxi Riviera Maya ofrece una soluci&oacute;n confiable y eficiente. Partiendo desde el animado ambiente de Canc&uacute;n, nuestro equipo est&aacute; listo para llevar a los viajeros a la tranquila belleza de Puerto Morelos.</p>
+                <p>Para aquellos que buscan la ruta m&aacute;s conveniente y c&oacute;moda desde Canc&uacute;n a Puerto Morelos, el servicio de traslado de Punta Cana Airport Transfers ofrece una soluci&oacute;n confiable y eficiente. Partiendo desde el animado ambiente de Canc&uacute;n, nuestro equipo est&aacute; listo para llevar a los viajeros a la tranquila belleza de Puerto Morelos.</p>
                 <p>El viaje comienza con la facilidad de reservar en l&iacute;nea, brindando a los viajeros la conveniencia de planificar su traslado con anticipaci&oacute;n. Una vez en el aeropuerto de Canc&uacute;n, experimentar&aacute;s una transici&oacute;n sin problemas, ya que nuestros conductores profesionales y amigables estar&aacute;n esperando para recibirte.</p>
                 <p>La ruta a Puerto Morelos se transforma en una experiencia paradisiaca a medida que te sumerges en el paisaje costero. Nuestros veh&iacute;culos bien mantenidos aseguran un viaje c&oacute;modo, permiti&eacute;ndote relajarse y disfrutar del trayecto. Durante el recorrido, nuestros conductores, conocedores de la zona, pueden proporcionar informaci&oacute;n sobre lugares de inter&eacute;s y responder a cualquier pregunta que puedas tener sobre Puerto Morelos.</p>
                 <p>La puntualidad es nuestra prioridad, garantizando que llegues a tu destino en Puerto Morelos sin contratiempos. Ya sea que tu visita sea para disfrutar de sus hermosas playas, explorar los arrecifes de coral o sumergirte en la cultura local, nuestro servicio de traslado se adapta a tus necesidades y te deja justo donde quieres estar en Puerto Morelos.</p>
-                <p>En resumen, el viaje de Canc&uacute;n a Puerto Morelos con Taxi Riviera Maya es m&aacute;s que un traslado; es una experiencia cuidadosamente dise&ntilde;ada para que disfrutes cada momento de tu viaje. Conf&iacute;a en nosotros para llevarte de manera segura y c&oacute;moda a descubrir la encantadora belleza de Puerto Morelos.</p>
+                <p>En resumen, el viaje de Canc&uacute;n a Puerto Morelos con Punta Cana Airport Transfers es m&aacute;s que un traslado; es una experiencia cuidadosamente dise&ntilde;ada para que disfrutes cada momento de tu viaje. Conf&iacute;a en nosotros para llevarte de manera segura y c&oacute;moda a descubrir la encantadora belleza de Puerto Morelos.</p>
             </div>
             <div class="right">
                 <picture>
-                    <source srcset="/assets/img/destinations/cancun/cancun.webp" type="image/webp">
-                    <img src="/assets/img/destinations/cancun/cancun.jpg" alt="Servicios de transporte en el aeropuerto de cancún" title="Servicios de transporte en el aeropuerto de cancún" loading="lazy" width="373" height="260">
+                    <source srcset="/assets/img/destinations/punta-cana/punta-cana.webp" type="image/webp">
+                    <img src="/assets/img/destinations/punta-cana/punta-cana.jpg" alt="Servicios de transporte en el aeropuerto de cancún" title="Servicios de transporte en el aeropuerto de cancún" loading="lazy" width="373" height="260">
                 </picture>
             </div>
         </div>
@@ -615,55 +615,55 @@
     <div class="container destinations_information">
         <div class="top">
             <h2>Servicio de transporte en puerto morelos</h2>
-            <p>Si estás planeando tu traslado a Puerto Morelos no busques más. En Taxi Riviera Maya, nos especializamos en brindar el servicio de transporte más completo y confiable. Desde cualquier destino en la Riviera Maya o el Aeropuerto, nuestro equipo está siempre listo para llevarte a tu hotel o destino favorito en Puerto Morelos.</p>
+            <p>Si estás planeando tu traslado a Puerto Morelos no busques más. En Punta Cana Airport Transfers, nos especializamos en brindar el servicio de transporte más completo y confiable. Desde cualquier destino en la Punta Cana o el Aeropuerto, nuestro equipo está siempre listo para llevarte a tu hotel o destino favorito en Puerto Morelos.</p>
         </div>
         <div class="bottom">
             <div>
-                <a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">
+                <a href="/punta-cana-to-tulum-shuttle" title="Traslado a Tulum">
                     <picture>
                         <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/tulum-destino.jpg" alt="Traslado a Tulum" title="Traslado a Tulum" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 40 minutos</p>
+                    <h3><a href="/punta-cana-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
+                <a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
                     <picture>
                         <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Traslado a Playa del Carmen" title="Traslado a Playa del Carmen" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 55 minutos</p>
+                    <h3><a href="/transportation-punta-cana-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 55 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">
+                <a href="/punta-cana-airport-transportation" title="Taxi en el Aeropuerto de Punta Cana">
                     <picture>
-                        <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
-                        <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Cancún" title="Taxi en el Aeropuerto de Cancún" loading="lazy" width="373" height="260">
+                        <source srcset="/assets/img/destinations/punta-cana-zona-hotelera.webp" type="image/webp">
+                        <img src="/assets/img/destinations/punta-cana-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Punta Cana" title="Taxi en el Aeropuerto de Punta Cana" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
+                    <h3><a href="/punta-cana-airport-transportation" title="Taxi en el Aeropuerto de Punta Cana">Taxi en el Aeropuerto de Punta Cana</a></h3>
                     <p>Disfruta de un servicio de Traslado a la Zona Hotelera seguro, rápido y confiable. El tiempo estimado de traslado desde el Aeropuerto a la Zona Hotelera es de 30 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">
+                <a href="/punta-cana-to-akumal-shuttle" title="Traslado a Akumal">
                     <picture>
                         <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
                         <img src="/assets/img/destinations/destino-akumal.jpg" alt="Traslado a Akumal" title="Traslado a Akumal" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún a Akumal es de 1 hora y 40 minutos</p>
+                    <h3><a href="/punta-cana-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
+                    <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana a Akumal es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
@@ -673,7 +673,7 @@
                 </picture>
                 <div>
                     <h3>Traslado a Puerto Morelos</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Morelos seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 30 minutos</p>
+                    <p>Disfruta de un servicio de Traslado a Puerto Morelos seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 30 minutos</p>
                 </div>
             </div>
             <div>
@@ -683,7 +683,7 @@
                 </picture>
                 <div>
                     <h3>Traslado a Puerto Aventuras</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Aventuras seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 20 minutos</p>
+                    <p>Disfruta de un servicio de Traslado a Puerto Aventuras seguro, rápido y confiable. El tiempo estimado de traslado desde Punta Cana es de 1 hora y 20 minutos</p>
                 </div>
             </div>
         </div>
@@ -693,11 +693,11 @@
         <div class="bottom">
             <div class="left">                
                 <h2>Puerto Morelos: el lugar ideal para tus vacaciones</h2>
-                <p>Puerto Morelos, ubicado en la Riviera Maya de M&eacute;xico, es un destino tur&iacute;stico popular que atrae a visitantes de todo el mundo. Aunque es conocido por su ambiente relajado y encanto aut&eacute;ntico, tambi&eacute;n ofrece una variedad de actividades y lugares de inter&eacute;s que atraen a los turistas. Algunos de los destinos favoritos que suelen visitar los turistas en Puerto Morelos incluyen:</p>
+                <p>Puerto Morelos, ubicado en la Punta Cana de M&eacute;xico, es un destino tur&iacute;stico popular que atrae a visitantes de todo el mundo. Aunque es conocido por su ambiente relajado y encanto aut&eacute;ntico, tambi&eacute;n ofrece una variedad de actividades y lugares de inter&eacute;s que atraen a los turistas. Algunos de los destinos favoritos que suelen visitar los turistas en Puerto Morelos incluyen:</p>
                 <p><strong>Arrecife de Puerto Morelos:</strong> Este es el segundo arrecife de coral m&aacute;s grande del mundo y una atracci&oacute;n imperdible para los amantes del buceo y el snorkel. Los visitantes pueden explorar la rica vida marina, incluyendo coloridos corales y peces tropicales.</p>
                 <p><strong>Jard&iacute;n Bot&aacute;nico Dr. Alfredo Barrera Mar&iacute;n:</strong> Este jard&iacute;n bot&aacute;nico es un refugio tranquilo que alberga una impresionante variedad de plantas nativas de la regi&oacute;n. Los visitantes pueden dar paseos relajantes mientras aprenden sobre la flora local y disfrutan de la naturaleza.</p>
                 <p><strong>Pueblo de Puerto Morelos: </strong>El pueblo en s&iacute; mismo es encantador, con su faro ic&oacute;nico y su muelle de pesca. Los turistas pueden disfrutar de paseos por la playa, explorar los mercados locales y probar la aut&eacute;ntica cocina mexicana en los restaurantes y puestos de comida.</p>
-                <p><strong>Cenotes:</strong> La Riviera Maya es famosa por sus cenotes, y Puerto Morelos no es la excepci&oacute;n. Estos pozos naturales de agua dulce son perfectos para nadar y practicar esn&oacute;rquel, y algunos de los m&aacute;s populares cerca de Puerto Morelos incluyen el Cenote La Noria y el Cenote Verde Lucero.</p>
+                <p><strong>Cenotes:</strong> La Punta Cana es famosa por sus cenotes, y Puerto Morelos no es la excepci&oacute;n. Estos pozos naturales de agua dulce son perfectos para nadar y practicar esn&oacute;rquel, y algunos de los m&aacute;s populares cerca de Puerto Morelos incluyen el Cenote La Noria y el Cenote Verde Lucero.</p>
                 <p><strong>Parque Nacional Arrecife de Puerto Morelos: </strong>Este parque marino protegido ofrece oportunidades para practicar snorkel y buceo en &aacute;reas designadas. Es una manera fant&aacute;stica de experimentar la belleza del arrecife mientras se preserva su fragilidad.</p>
                 <p><strong>Reserva de la Biosfera Sian Ka'an: </strong>Aunque est&aacute; un poco m&aacute;s alejada, la Reserva de la Biosfera Sian Ka'an es un destino excepcional para aquellos que buscan experiencias m&aacute;s naturales. La reserva cuenta con una variedad de ecosistemas, desde manglares hasta playas v&iacute;rgenes.</p>
                 <p><strong>Actividades acu&aacute;ticas: </strong>Puerto Morelos ofrece una amplia gama de actividades acu&aacute;ticas, como paseos en bote, pesca deportiva, kayak y m&aacute;s. Los turistas pueden disfrutar del Mar Caribe de diversas maneras, ya sea relaj&aacute;ndose en la playa o participando en emocionantes aventuras acu&aacute;ticas.</p>
@@ -705,7 +705,7 @@
             <div class="right">
                 <picture>
                     <source srcset="/assets/img/home/client.webp" type="image/webp">
-                    <img src="/assets/img/home/client.png" alt="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" title="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" loading="lazy" width="390" height="481">
+                    <img src="/assets/img/home/client.png" alt="Más que sólo un servicio de Taxi en el Aeropuerto de Punta Cana" title="Más que sólo un servicio de Taxi en el Aeropuerto de Punta Cana" loading="lazy" width="390" height="481">
                 </picture>
             </div>
         </div>
@@ -732,7 +732,7 @@
             <div>
                 <h3>¿Cuáles son algunas opciones de alojamiento recomendadas en Puerto Morelos?</h3>
                 <div>
-                    <p>Entre las opciones recomendadas se encuentran el Now Sapphire Riviera Cancun y el Dreams Riviera Cancun Resort & Spa, ambos resorts de lujo frente al mar.</p>
+                    <p>Entre las opciones recomendadas se encuentran el Now Sapphire Punta Cana Punta Cana y el Dreams Punta Cana Punta Cana Resort & Spa, ambos resorts de lujo frente al mar.</p>
                 </div>
             </div>
             <div>
@@ -748,9 +748,9 @@
                 </div>
             </div>
             <div>
-                <h3>¿Cuál es la mejor forma de llegar a Puerto Morelos desde el Aeropuerto Internacional de Cancún?</h3>
+                <h3>¿Cuál es la mejor forma de llegar a Puerto Morelos desde el Aeropuerto Internacional de Punta Cana?</h3>
                 <div>
-                    <p>La forma más conveniente es tomar un traslado privado, un taxi o alquilar un automóvil. También hay servicios de autobús que conectan el aeropuerto con la Riviera Maya.</p>
+                    <p>La forma más conveniente es tomar un traslado privado, un taxi o alquilar un automóvil. También hay servicios de autobús que conectan el aeropuerto con la Punta Cana.</p>
                 </div>
             </div>
             <div>
