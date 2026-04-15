@@ -9,7 +9,7 @@ trait ApiTrait
 {
     public static $site_id = 5;
     public static $api_key = 'bb65be85-82f9-492f-bbd6-4a698509106a';
-    public static $user = 'caribbean-taxi';
+    public static $user = 'taxidominicana';
     public static $password = 'gzc1ZKF3bwe0yavmcf';
     public static $types = [
         "OW" => "one-way",

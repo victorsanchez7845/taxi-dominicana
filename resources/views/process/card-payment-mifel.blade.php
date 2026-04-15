@@ -197,7 +197,7 @@
             @endif
 
             
-            <form action="https://caribbean-taxi.com/thank-you" class="paymentWidgets" data-brands="VISA MASTER"></form>
+            <form action="https://taxidominicana.com/thank-you" class="paymentWidgets" data-brands="VISA MASTER"></form>
             <img src="/assets/img/payments/card-options.png">
         </div>
     </div>

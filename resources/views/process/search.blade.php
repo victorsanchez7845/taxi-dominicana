@@ -54,7 +54,7 @@
                             </a>
                             <a href="tel:{{ App\Traits\GeneralTrait::clearPhone( config('services.phone.MX') ) }}" class="btn">
                                 <svg width="20" height="20"><use xlink:href="/assets/img/svg/icons.svg#phone"></use></svg>
-                                Mexico &amp; Rest of the World
+                                Dominican Republic &amp; Rest of the World
                             </a>
                             <a href="https://api.whatsapp.com/send?phone=529987374906&text=Hello%2C%20I%20need%20a%20transportation%20service" class="btn">
                                 <svg width="30" height="30"><use xlink:href="/assets/img/svg/icons.svg#social-whatsapp"></use></svg>

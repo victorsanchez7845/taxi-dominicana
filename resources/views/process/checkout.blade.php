@@ -151,7 +151,7 @@
             </div>
             <div id="paymentInfo" class="hidden">
                 <p><strong>Important!</strong> You have to present the debit or credit card with which you made the payment when starting your transfer.</p>
-                <p>If you choose to pay by credit/debit card, your payment will be converted into local currency (MXN) at a preferential exchange rate for you ❤️.</p>
+                <p>If you choose to pay by credit/debit card, your payment will be converted into local currency (USD) at a preferential exchange rate for you ❤️.</p>
             </div>
             <div id="cashInfo" class="hidden">
                 @if(app()->getLocale() == "en")

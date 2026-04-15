@@ -1,0 +1,116 @@
+
+   INFO  Server running on [http://127.0.0.1:8000].
+
+  Press Ctrl+C to stop the server
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $meta is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 16.
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $path is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 29.
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $path is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 43.
+
+   WARN  PHP Deprecated: Optional parameter $lang declared before required parameter $path is implicitly treated as a required parameter in app/Traits/SeoTrait.php on line 52.
+
+  2026-04-15 05:16:46 ................................................... ~ 1s
+  2026-04-15 05:19:34 ................................................... ~ 0s
+  2026-04-15 05:19:34 /assets/css/base.min.css .......................... ~ 0s
+  2026-04-15 05:19:34 /assets/css/destinations/punta-cana.min.css ....... ~ 0s
+  2026-04-15 05:19:34 /assets/img/banners/home/home-desktop.webp ........ ~ 0s
+  2026-04-15 05:19:34 /assets/js/base/index.min.js ...................... ~ 0s
+  2026-04-15 05:19:34 /assets/js/bookingbox/index.min.js ................ ~ 0s
+  2026-04-15 05:19:35 /assets/img/svg/icons.svg ......................... ~ 0s
+  2026-04-15 05:19:35 /assets/img/logo.webp ............................. ~ 0s
+  2026-04-15 05:19:35 /assets/img/reviews/clients_background.webp ....... ~ 0s
+  2026-04-15 05:19:35 ................................................... ~ 0s
+  2026-04-15 05:19:35 /assets/img/svg/bars.svg .......................... ~ 0s
+  2026-04-15 05:19:35 /assets/img/svg/close.svg ......................... ~ 0s
+  2026-04-15 05:19:35 /assets/img/home/taxirivi-cliente.webp ............ ~ 0s
+  2026-04-15 05:19:35 /assets/img/services/van.webp ..................... ~ 0s
+  2026-04-15 05:19:35 /assets/img/services/suburban.webp ................ ~ 0s
+  2026-04-15 05:19:35 /assets/img/services/crafter.webp ................. ~ 0s
+  2026-04-15 05:19:37 /assets/img/reviews/4.webp ........................ ~ 0s
+  2026-04-15 05:19:37 /assets/img/reviews/1.webp ........................ ~ 0s
+  2026-04-15 05:19:37 /assets/img/reviews/3.webp ........................ ~ 0s
+  2026-04-15 05:19:37 /assets/img/reviews/2.webp ........................ ~ 0s
+  2026-04-15 05:19:37 ................................................... ~ 0s
+  2026-04-15 05:19:37 ................................................... ~ 0s
+  2026-04-15 05:19:37 ................................................... ~ 0s
+  2026-04-15 05:19:37 ................................................... ~ 0s
+  2026-04-15 05:19:37 ................................................... ~ 0s
+  2026-04-15 05:19:37 /assets/img/destinations/puerto-morelos-destino-taxi.webp  ~ 0s
+  2026-04-15 05:19:37 /assets/img/destinations/destino-puerto-aventuras.webp  ~ 0s
+  2026-04-15 05:19:37 /assets/img/home/client.webp ...................... ~ 0s
+  2026-04-15 05:19:38 ................................................... ~ 0s
+  2026-04-15 05:19:38 /assets/css/base.min.css .......................... ~ 0s
+  2026-04-15 05:19:38 /assets/css/destinations/la-romana.min.css ........ ~ 0s
+  2026-04-15 05:19:38 /assets/js/base/index.min.js ...................... ~ 0s
+  2026-04-15 05:19:38 /assets/img/banners/home/home-desktop.webp ........ ~ 0s
+  2026-04-15 05:19:38 /assets/js/bookingbox/index.min.js ................ ~ 0s
+  2026-04-15 05:19:38 /assets/img/logo.webp ............................. ~ 0s
+  2026-04-15 05:19:38 /assets/img/reviews/clients_background.webp ....... ~ 0s
+  2026-04-15 05:19:38 /assets/img/svg/bars.svg .......................... ~ 0s
+  2026-04-15 05:19:38 /assets/img/svg/close.svg ......................... ~ 0s
+  2026-04-15 05:19:38 /assets/img/home/taxirivi-cliente.webp ............ ~ 0s
+  2026-04-15 05:19:38 ................................................... ~ 0s
+  2026-04-15 05:19:38 /assets/img/services/van.webp ..................... ~ 0s
+  2026-04-15 05:19:38 /assets/img/services/suburban.webp ................ ~ 0s
+  2026-04-15 05:19:38 /assets/img/services/crafter.webp ................. ~ 0s
+  2026-04-15 05:19:39 /assets/img/reviews/1.webp ........................ ~ 0s
+  2026-04-15 05:19:39 /assets/img/reviews/2.webp ........................ ~ 0s
+  2026-04-15 05:19:39 /assets/img/reviews/3.webp ........................ ~ 0s
+  2026-04-15 05:19:39 /assets/img/reviews/4.webp ........................ ~ 0s
+  2026-04-15 05:19:39 ................................................... ~ 0s
+  2026-04-15 05:19:40 ................................................... ~ 0s
+  2026-04-15 05:19:40 ................................................... ~ 0s
+  2026-04-15 05:19:40 ................................................... ~ 0s
+  2026-04-15 05:38:37 ................................................... ~ 0s
+  2026-04-15 05:38:37 /assets/css/base.min.css .......................... ~ 0s
+  2026-04-15 05:38:37 /assets/css/destinations/punta-cana.min.css ....... ~ 0s
+  2026-04-15 05:38:37 /assets/js/base/index.min.js ...................... ~ 0s
+  2026-04-15 05:38:37 /assets/img/banners/home/home-desktop.webp ........ ~ 0s
+  2026-04-15 05:38:37 /assets/js/bookingbox/index.min.js ................ ~ 0s
+  2026-04-15 05:38:37 /assets/img/svg/icons.svg ......................... ~ 0s
+  2026-04-15 05:38:37 /assets/img/reviews/clients_background.webp ....... ~ 0s
+  2026-04-15 05:38:37 ................................................... ~ 0s
+  2026-04-15 05:38:37 /assets/img/logo.webp ............................. ~ 0s
+  2026-04-15 05:38:37 /assets/img/svg/bars.svg .......................... ~ 0s
+  2026-04-15 05:38:37 /assets/img/svg/close.svg ......................... ~ 0s
+  2026-04-15 05:38:37 /assets/img/home/taxirivi-cliente.webp ............ ~ 0s
+  2026-04-15 05:38:37 /assets/img/services/van.webp ..................... ~ 0s
+  2026-04-15 05:38:37 /assets/img/services/suburban.webp ................ ~ 0s
+  2026-04-15 05:38:37 /assets/img/services/crafter.webp ................. ~ 0s
+  2026-04-15 05:38:38 /assets/img/reviews/4.webp ........................ ~ 0s
+  2026-04-15 05:38:38 /assets/img/reviews/1.webp ........................ ~ 0s
+  2026-04-15 05:38:38 /assets/img/reviews/3.webp ........................ ~ 0s
+  2026-04-15 05:38:38 /assets/img/reviews/2.webp ........................ ~ 0s
+  2026-04-15 05:38:38 ................................................... ~ 1s
+  2026-04-15 05:38:39 ................................................... ~ 0s
+  2026-04-15 05:38:39 ................................................... ~ 0s
+  2026-04-15 05:38:39 ................................................... ~ 0s
+  2026-04-15 05:38:39 ................................................... ~ 0s
+  2026-04-15 05:38:39 /assets/img/destinations/puerto-morelos-destino-taxi.webp  ~ 0s
+  2026-04-15 05:38:39 /assets/img/destinations/destino-puerto-aventuras.webp  ~ 0s
+  2026-04-15 05:38:39 /assets/img/home/client.webp ...................... ~ 0s
+  2026-04-15 05:38:39 ................................................... ~ 1s
+  2026-04-15 05:38:40 /assets/css/base.min.css .......................... ~ 0s
+  2026-04-15 05:38:40 /assets/css/destinations/la-romana.min.css ........ ~ 0s
+  2026-04-15 05:38:40 /assets/js/base/index.min.js ...................... ~ 0s
+  2026-04-15 05:38:40 /assets/img/banners/home/home-desktop.webp ........ ~ 0s
+  2026-04-15 05:38:40 /assets/js/bookingbox/index.min.js ................ ~ 0s
+  2026-04-15 05:38:40 /assets/img/reviews/clients_background.webp ....... ~ 0s
+  2026-04-15 05:38:40 /assets/img/logo.webp ............................. ~ 0s
+  2026-04-15 05:38:40 /assets/img/svg/bars.svg .......................... ~ 0s
+  2026-04-15 05:38:40 /assets/img/svg/close.svg ......................... ~ 0s
+  2026-04-15 05:38:40 /assets/img/home/taxirivi-cliente.webp ............ ~ 0s
+  2026-04-15 05:38:40 /assets/img/services/van.webp ..................... ~ 0s
+  2026-04-15 05:38:40 /assets/img/services/suburban.webp ................ ~ 0s
+  2026-04-15 05:38:40 ................................................... ~ 0s
+  2026-04-15 05:38:40 /assets/img/services/crafter.webp ................. ~ 0s
+  2026-04-15 05:38:41 /assets/img/reviews/1.webp ........................ ~ 0s
+  2026-04-15 05:38:41 /assets/img/reviews/2.webp ........................ ~ 0s
+  2026-04-15 05:38:41 /assets/img/reviews/3.webp ........................ ~ 0s
+  2026-04-15 05:38:41 /assets/img/reviews/4.webp ........................ ~ 0s
+  2026-04-15 05:38:41 ................................................... ~ 0s
+  2026-04-15 05:38:41 ................................................... ~ 0s
+  2026-04-15 05:38:41 ................................................... ~ 0s
+  2026-04-15 05:38:41 ................................................... ~ 0s

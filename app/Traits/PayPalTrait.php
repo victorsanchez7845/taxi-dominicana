@@ -71,12 +71,12 @@ trait PayPalTrait
 	        $url =  $URL = $this->URL[ self::$env ] . '/v2/checkout/orders';
 
             //URL's
-	        $return_url = 'https://caribbean-taxi.com/thank-you';
-            $cancel_url = 'https://caribbean-taxi.com/cancel';
+	        $return_url = 'https://taxidominicana.com/thank-you';
+            $cancel_url = 'https://taxidominicana.com/cancel';
             
             if(app()->getLocale() == "en"):
-	            $return_url = 'https://caribbean-taxi.com/thank-you';
-                $cancel_url = 'https://caribbean-taxi.com/cancel';
+	            $return_url = 'https://taxidominicana.com/thank-you';
+                $cancel_url = 'https://taxidominicana.com/cancel';
             endif;
 
 	        //Information

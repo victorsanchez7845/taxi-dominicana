@@ -19,10 +19,10 @@ use App\Http\Controllers\PaymentController;
 Route::middleware('locale')->group(function () {
 
     Route::get('/', [WebsiteController::class, 'index'])->name('home');
-    Route::get('/cancun-airport-transportation', [DestinationsController::class, 'cancun'])->name('destination.cancun');
-    Route::get('/cancun-to-tulum-shuttle', [DestinationsController::class, 'tulum'])->name('destination.tulum');
-    Route::get('/transportation-cancun-airport-to-playa-del-carmen', [DestinationsController::class, 'playaDelCarmen'])->name('destination.pdc');
-    Route::get('/cancun-to-akumal-shuttle', [DestinationsController::class, 'akumal'])->name('destination.akumal');
+    Route::get('/punta-cana-airport-transfers', [DestinationsController::class, 'puntaCana'])->name('destination.puntaCana');
+    Route::get('/punta-cana-to-bavaro-transfers', [DestinationsController::class, 'bavaro'])->name('destination.bavaro');
+    Route::get('/punta-cana-to-la-romana-transfers', [DestinationsController::class, 'laRomana'])->name('destination.laRomana');
+    Route::get('/punta-cana-to-cap-cana-transfers', [DestinationsController::class, 'capCana'])->name('destination.capCana');
 
     Route::get('/contact', [WebsiteController::class, 'contact'])->name('contact');
     Route::get('/privacy-policy', [WebsiteController::class, 'privacy'])->name('privacy');

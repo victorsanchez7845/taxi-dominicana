@@ -19,7 +19,7 @@
         var directionsDisplay = new google.maps.DirectionsRenderer;
         var map = new google.maps.Map(document.getElementById('map'), {
             zoom: 9,
-            center: {lat: 21.14, lng: -86.90},
+            center: {lat: 18.59, lng: -68.37},
 
         disableDefaultUI: false,
     		mapTypeControl: false,
